@@ -6,25 +6,36 @@
     list-style-type: none;
     padding: 17px 15px;
     display: block;
-    color: #337ab7 !important;
+    color: #4c96d8 !important;
     text-align: left;
 }
 
 .link-item:hover {
-    border: 1px solid #ddd;
-    background-color: #f5f5f5;
+    border: 1px solid #424242;
+    background-color: #3b3b3b;
 }
 
 html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
-    background-color: #fff;
+    background-color: #303030;
 }
 
 html.can-touch .link-item:active{ /* disable hover effect when input is touch */
-    background-color: #f5f5f5;
+    background-color: #3b3b3b;
 }
 
-.fa {
-    font-size: 16px;
-    margin-left: 5px;
-    margin-right: 10px;
+.fa, .fas, .fab {
+    font-size: 1rem;
+    margin-left: 0.5rem;
+    margin-right: 1rem;
+}
+
+html, body {
+    font-family: 'Roboto', sans-serif !important;
+    background-color: #222222 !important;
+    height: 150%;
+    height: 150vh;
+}
+
+.container {
+    margin-bottom: 2vh;
 }

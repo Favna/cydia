@@ -2,10 +2,6 @@ function data_loader_engine(contentBlocks,xml) {
 
 	/* Loop through each if the contentBlocks */
 	$.each(contentBlocks, function (key,contentInfo){
-		
-		console.log('Processing '+key);
-		console.log('  type= '+contentInfo.type);
-		
 		// go out if key element does not exits
 		if (!($(key).length)) {return}
 		
@@ -15,9 +11,6 @@ function data_loader_engine(contentBlocks,xml) {
 				$(key).html(content)
 				break;
 			case "link":
-				console.log('  url= '+contentInfo.url);
-				console.log('  text= '+contentInfo.text);
-
 				var url = contentInfo.url;
 				var params = [];
 				if (contentInfo.params) {
@@ -36,7 +29,7 @@ function data_loader_engine(contentBlocks,xml) {
 				var list = $(xml).find(contentInfo.source);
 				
 				
-				if (list.size()==0) {
+				if (list.length==0) {
 					if (contentInfo.emptyListCallback) {
 						contentInfo.emptyListCallback($(key))
 					}

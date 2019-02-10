@@ -4,22 +4,26 @@
   <title>PackageName</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <link rel="stylesheet" href="style.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+	<script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="js/jquery.querystring.js"></script>
   <script type="text/javascript" src="js/data-loader-engine.js"></script>
   <script type="text/javascript" src="js/ios_version_check.js"></script>
+	
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.2.1/darkly/bootstrap.min.css" >
+  <link rel="stylesheet" href="style.css">
   <style>
 	@media (max-width: 767px) {
-		body{background:#efeff4!important;margin:0;padding:0;border:0;outline:0;box-sizing:border-box}
+		body{margin:0;padding:0;border:0;outline:0;box-sizing:border-box}
 	}
 	.jumbotron-bg {
 		background: green
 	}
   </style>
-  <script type="text/javascript">
+  <script defer type="text/javascript">
 
 	bundleid = $.QueryString['p'];
 
@@ -66,7 +70,7 @@
 				,"source" :"package>screenshots>screenshot"
 				,"render":function(element, source){
 					$("#screenshotsLink").remove();
-					if ($(source).size() == 0) {
+					if ($(source).length == 0) {
 						return
 					}
 					// create screenshots link
@@ -90,7 +94,7 @@
                 ,"source" :"package>changelog>change"
                 ,"render":function(element, source){
                     $("#changelogLink").remove();
-                    if ($(source).size() == 0) {
+                    if ($(source).length == 0) {
                         return
                     }
                     // create changelog link
@@ -112,7 +116,7 @@
 				,"source" :"package>links>link"
 				,"paragraphElement"	: "<li class='list-group-item'>"
 				,"render":function(element,source){
-					if ($(source).size()==0){
+					if ($(source).length==0){
 						$('#externalLinksContainer').remove()
 					}
 
@@ -122,7 +126,6 @@
                         if ($(data).find('iconclass')) {
                             var i =  $("<span>")
                             i.attr("class",$(data).find('iconclass').text());
-                            console.log(i);
                             $(a).append(i);
                         }
                         $(a).append($(data).find('name').text());
@@ -224,7 +227,6 @@
                         if ($(data).find('iconclass')) {
                             var i =  $("<span>")
                             i.attr("class",$(data).find('iconclass').text());
-                            console.log(i);
                             $(a).append(i);
                         }
                         $(a).append($(data).find('name').text());
@@ -257,7 +259,5 @@
 		</ul>
 	</div>
 </div>
-
-
 </body>
 </html>

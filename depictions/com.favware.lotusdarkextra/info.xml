@@ -1,0 +1,51 @@
+<package>
+	<id>com.favware.lotusdarkextra</id>
+	<name>Lotus Dark Extra</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>Extra Lotus Dark Icons</shortDescription>
+	<descriptionlist>
+		<description>Lotus Dark has stopped receiving updates and I created many extra icons for it. I decided to make the icons publicaly available through this package. While you can totally install this without buying Lotus Dark it really won't work all that well so I recommend you also buy Lotus Dark from the Packix repository.</description>
+		<description>This theme adds icons for a lot of icons!
+			<![CDATA[<p><button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#iconList">
+				Click here to view the list of extra icons
+			</button></p>]]>
+
+			<![CDATA[<div class="collapse" id="iconList">
+				<div class="card card-body">
+					<ul>
+						<li>Unc0ver</li>
+						<li>AirMail</li>
+						<li>BlackBoard</li>
+						<li>Fandom</li>
+						<li>MyThuas</li>
+						<li>Ikea Store</li>
+						<li>Jumbo (Dutch supermarket)</li>
+						<li>McDonalds (the new app)</li>
+						<li>New York Pizza</li>
+						<li>Microsoft Remote Dekstop</li>
+						<li>Mini Golf King</li>
+						<li>Streamlabs OBS</li>
+						<li>Hoppenhelm</li>
+						<li>Datum Prikker</li>
+						<li>Magikarp Jump</li>
+						<li>Counter - Tally Counter</li>
+						<li>Mijn DSW</li>
+						<li>Hornbach</li>
+						<li>Knaek App</li>
+						<li>Wehkamp</li>
+						<li>Random.org</li>
+					</ul>
+				</div>
+			</div>]]>
+		</description>
+		<description>No screenshots for this item. No options to configure. Toggle the theme in Anemone / Snowboard</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+</package>

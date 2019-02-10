@@ -2,13 +2,18 @@
 	<footerlinks>
 		<link>
 			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/reposi3</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<url>https://twitter.com/favna_</url>
+			<iconclass>fab fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/supermamon/Reposi3/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<name>Join my Discord server</name>
+			<url>https://favna.xyz/redirect/server</url>
+			<iconclass>fab fa-discord</iconclass>
+		</link>
+		<link>
+			<name>View my projects</name>
+			<url>https://www.favna.xyz</url>
+			<iconclass>fas fa-code</iconclass>
 		</link>
 	</footerlinks>
 </repo>

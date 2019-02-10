@@ -32,8 +32,8 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 html, body {
     font-family: 'Roboto', sans-serif !important;
     background-color: #222222 !important;
-    height: 150%;
-    height: 150vh;
+    height: 175%;
+    height: 175vh;
 }
 
 .container {

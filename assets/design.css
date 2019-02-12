@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 html, body {
-    padding: 2%;
     font-family: 'Roboto', sans-serif !important;
+    background-color: #222222 !important;
+    height: 100% !important;
+    height: 100vh !important;
 }
 
 .card {

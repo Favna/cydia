@@ -30,16 +30,32 @@ Author: Favna <support@favna.xyz>
 Depiction: https://favna.github.io/cydia/depictions/?p=com.favware.lotusdarkextra
 Name: Lotus Dark Extra
 
+Package: com.favware.lotusdarkextra
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Favna <support@favna.xyz>
+Depends: firmware (>=7.0), mobilesubstrate
+Filename: ./debs/com.favware.lotusdarkexta_1.0.2.deb
+Size: 1318772
+MD5sum: 602cd87cd0be2d17ac681da38a45df10
+SHA1: 5f3f5351a7c3b24387bd14fec504f49a5a023538
+SHA256: 2ce4225f24f43a43c40796ad94750de3006188b7cd766d24ecbc8727ad24f477
+Section: Themes
+Description: Extra Lotus Dark Icons
+Author: Favna <support@favna.xyz>
+Depiction: https://favna.github.io/cydia/depictions/?p=com.favware.lotusdarkextra
+Name: Lotus Dark Extra
+
 Package: com.favware.lotusdarksettingsvpnicon
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: Favna <support@favna.xyz>
 Depends: firmware (>=7.0), mobilesubstrate
 Filename: ./debs/com.favware.lotusdarksettingsvpnicon_1.0.0.deb
-Size: 10644
-MD5sum: f65be5c3316f2aa315bddd598a7462b3
-SHA1: 62bd19814d1996b93414d7d7035915e7d17d26b7
-SHA256: 491fab4e1f2250a91963808323fd9482cede4ea6cda4ef971b5db8c7898ce5ce
+Size: 10648
+MD5sum: 0495887fcb16fe5bc5f4007bc923cb6d
+SHA1: 0010d9506ceebac11c0ae52904d1fe0bdd8fec48
+SHA256: 765505cf54f9f7c79e4c7912f731531fe36168a4032cb4f541d33dc9ba73dab4
 Section: Themes
 Description: VPN Icon for Preferences app for Lotus Dark
 Author: Favna <support@favna.xyz>

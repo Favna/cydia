@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra</name>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -18,43 +18,63 @@
 			<![CDATA[<div class="collapse" id="iconList">
 				<div class="card card-body">
 					<ul>
-						<li>Unc0ver</li>
+						<li>1.1.1.1: Faster Internet</li>
+						<li>AdminVUE</li>
+						<li>Agar.io</li>
 						<li>AirMail</li>
+						<li>Arena of Valor</li>
+						<li>AutoTouch</li>
+						<li>BanG Dream! Girls Band Party!</li>
 						<li>BlackBoard</li>
+						<li>Brawl Stars</li>
+						<li>Browser and Documents Manager</li>
+						<li>BytaFont 3</li>
+						<li>Counter - Tally Counter</li>
+						<li>Datum Prikker</li>
+						<li>Dragon City Mobile</li>
+						<li>Entrust IdentifyGuard Mobile</li>
+						<li>F.lux</li>
 						<li>Fandom</li>
-						<li>MyThuas</li>
+						<li>Habitica: Gamified Taskmanager</li>
+						<li>Hoppenhelm</li>
+						<li>Hornbach</li>
 						<li>Ikea Store</li>
 						<li>Jumbo (Dutch supermarket)</li>
-						<li>McDonalds (the new app)</li>
-						<li>New York Pizza</li>
-						<li>Microsoft Remote Dekstop</li>
-						<li>Mini Golf King</li>
-						<li>Streamlabs OBS</li>
-						<li>Hoppenhelm</li>
-						<li>Datum Prikker</li>
-						<li>Magikarp Jump</li>
-						<li>Counter - Tally Counter</li>
-						<li>Mijn DSW</li>
-						<li>Hornbach</li>
 						<li>Knaek App</li>
-						<li>Wehkamp</li>
-						<li>Random.org</li>
-						<li>Skiline Basic</li>
-						<li>1.1.1.1: Faster Internet</li>
-						<li>Entrust IdentifyGuard Mobile</li>
-						<li>Habitica: Gamified Taskmanager</li>
-						<li>Screenshotapp (from Junesiphone)</li>
-						<li>F.lux</li>
-						<li>NFCWriterX (from Limneos)</li>
-						<li>ReProvision (from Matchstic)</li>
-						<li>NXBoot (from mologie)</li>
-						<li>Pivotal Tracker</li>
+						<li>Magikarp Jump</li>
+						<li>McDonalds (the new app)</li>
 						<li>MedGemak</li>
+						<li>Microsoft Remote Dekstop</li>
+						<li>Mijn DSW</li>
+						<li>Mini Golf King</li>
+						<li>MyThuas</li>
+						<li>NFCWriterX (from Limneos)</li>
+						<li>NXBoot (from mologie)</li>
+						<li>New York Pizza</li>
+						<li>NordVPN: VPN Fast & Unlimited</li>
+						<li>ParentVUE</li>
+						<li>Pivotal Tracker</li>
+						<li>Pleco Chinese Dictionary</li>
+						<li>Pleco</li>
+						<li>Random.org</li>
+						<li>ReProvision (from Matchstic)</li>
+						<li>Rollectra</li>
+						<li>Screenshotapp (from Junesiphone)</li>
+						<li>SemiRestore 11</li>
+						<li>Skiline Basic</li>
+						<li>Streamlabs OBS</li>
+						<li>StudentVUE</li>
+						<li>TJ Intranet</li>
+						<li>TeacherVUE</li>
+						<li>Truyện Voz - vozForums - truyện f17 - truyện f145</li>
+						<li>Unc0ver</li>
+						<li>WeChat</li>
+						<li>Wehkamp</li>
+						<li>World of Tanks Blitz MMO</li>
 						<li>ZOOM Cloud Meetings</li>
-						<li>BytaFont 3</li>
-						<li>AutoTouch</li>
-						<li>Dragon City Mobile</li>
-						<li>Agar.io</li>
+						<li>Zalo</li>
+						<li>vozForum</li>
+						<li>vozForums</li>
 					</ul>
 				</div>
 			</div>]]>
@@ -65,10 +85,26 @@
 		<change><![CDATA[
 		<span>Adds new icons for:</span>
 		<ul>
-			<li>BytaFont 3</li>
-			<li>AutoTouch</li>
-			<li>Dragon City Mobile</li>
-			<li>Agar.io</li>
+			<li>AdminVUE</li>
+			<li>Arena of Valor</li>
+			<li>BanG Dream! Girls Band Party!</li>
+			<li>Brawl Stars</li>
+			<li>Browser and Documents Manager</li>
+			<li>NordVPN: VPN Fast & Unlimited</li>
+			<li>ParentVUE</li>
+			<li>Pleco Chinese Dictionary</li>
+			<li>Pleco</li>
+			<li>Rollectra</li>
+			<li>SemiRestore 11</li>
+			<li>StudentVUE</li>
+			<li>TJ Intranet</li>
+			<li>TeacherVUE</li>
+			<li>Truyện Voz - vozForums - truyện f17 - truyện f145</li>
+			<li>WeChat</li>
+			<li>World of Tanks Blitz MMO</li>
+			<li>Zalo</li>
+			<li>vozForum</li>
+			<li>vozForums</li>
 		</ul>]]>
 		</change>
 	</changelog>

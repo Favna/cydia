@@ -43,6 +43,7 @@
 						<li>Knaek App</li>
 						<li>Magikarp Jump</li>
 						<li>McDonalds (the new app)</li>
+						<li>Measure</li>
 						<li>MedGemak</li>
 						<li>Microsoft Remote Dekstop</li>
 						<li>Mijn DSW</li>
@@ -85,26 +86,7 @@
 		<change><![CDATA[
 		<span>Adds new icons for:</span>
 		<ul>
-			<li>AdminVUE</li>
-			<li>Arena of Valor</li>
-			<li>BanG Dream! Girls Band Party!</li>
-			<li>Brawl Stars</li>
-			<li>Browser and Documents Manager</li>
-			<li>NordVPN: VPN Fast & Unlimited</li>
-			<li>ParentVUE</li>
-			<li>Pleco Chinese Dictionary</li>
-			<li>Pleco</li>
-			<li>Rollectra</li>
-			<li>SemiRestore 11</li>
-			<li>StudentVUE</li>
-			<li>TJ Intranet</li>
-			<li>TeacherVUE</li>
-			<li>Truyện Voz - vozForums - truyện f17 - truyện f145</li>
-			<li>WeChat</li>
-			<li>World of Tanks Blitz MMO</li>
-			<li>Zalo</li>
-			<li>vozForum</li>
-			<li>vozForums</li>
+			<li>Measure (The iOS 12 app)</li>
 		</ul>]]>
 		</change>
 	</changelog>

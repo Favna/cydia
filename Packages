@@ -19,7 +19,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Favna <support@favna.xyz>
 Depends: firmware (>=7.0), mobilesubstrate
-Filename: ./debs/com.favware.lotusdarkexta_1.0.1.deb
+Filename: ./debs/com.favware.lotusdarkextra_1.0.1.deb
 Size: 925348
 MD5sum: 1b68e5238f2aaf816f1da8809c5d9304
 SHA1: df447045c55ee4a1b0605c57da236181cc994e30
@@ -35,7 +35,7 @@ Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Favna <support@favna.xyz>
 Depends: firmware (>=7.0), mobilesubstrate
-Filename: ./debs/com.favware.lotusdarkexta_1.0.2.deb
+Filename: ./debs/com.favware.lotusdarkextra_1.0.2.deb
 Size: 1318772
 MD5sum: 602cd87cd0be2d17ac681da38a45df10
 SHA1: 5f3f5351a7c3b24387bd14fec504f49a5a023538
@@ -51,7 +51,7 @@ Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: Favna <support@favna.xyz>
 Depends: firmware (>=7.0), mobilesubstrate
-Filename: ./debs/com.favware.lotusdarkexta_1.0.3.deb
+Filename: ./debs/com.favware.lotusdarkextra_1.0.3.deb
 Size: 1334952
 MD5sum: 8e1bd639c39981ff4d8ea3b8f7771281
 SHA1: 0bd7c9094d317393996b5deb1feb7c4e785ff1d0

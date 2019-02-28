@@ -1,5 +1,24 @@
 <changelog>
 	<changes>
+		<version>1.0.4</version>
+		<change><![CDATA[
+		<span>Adds new icons for:</span>
+		<ul>
+			<li>Things 3</li>
+			<li>Streaks</li>
+			<li>Streaks Workout</li>
+			<li>HealthFace</li>
+			<li>Show My Homework</li>
+			<li>Pythonista 3</li>
+			<li>Class Timetable</li>
+			<li>NatWest Mobile Banking</li>
+			<li>NatWest International</li>
+			<li>Trainline: Train and Bus App</li>
+			<li>Provenance</li>
+		</ul>]]>
+		</change>
+	</changes>
+	<changes>
 		<version>1.0.3</version>
 		<change><![CDATA[
 		<span>Adds new icons for:</span>

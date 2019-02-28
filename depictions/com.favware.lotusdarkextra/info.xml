@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra</name>
-	<version>1.0.3</version>
+	<version>1.0.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -29,6 +29,7 @@
 						<li>Brawl Stars</li>
 						<li>Browser and Documents Manager</li>
 						<li>BytaFont 3</li>
+						<li>Class Timetable</li>
 						<li>Counter - Tally Counter</li>
 						<li>Datum Prikker</li>
 						<li>Dragon City Mobile</li>
@@ -36,6 +37,7 @@
 						<li>F.lux</li>
 						<li>Fandom</li>
 						<li>Habitica: Gamified Taskmanager</li>
+						<li>HealthFace</li>
 						<li>Hoppenhelm</li>
 						<li>Hornbach</li>
 						<li>Ikea Store</li>
@@ -51,22 +53,31 @@
 						<li>MyThuas</li>
 						<li>NFCWriterX (from Limneos)</li>
 						<li>NXBoot (from mologie)</li>
+						<li>NatWest International</li>
+						<li>NatWest Mobile Banking</li>
 						<li>New York Pizza</li>
 						<li>NordVPN: VPN Fast & Unlimited</li>
 						<li>ParentVUE</li>
 						<li>Pivotal Tracker</li>
 						<li>Pleco Chinese Dictionary</li>
 						<li>Pleco</li>
+						<li>Provenance</li>
+						<li>Pythonista 3</li>
 						<li>Random.org</li>
 						<li>ReProvision (from Matchstic)</li>
 						<li>Rollectra</li>
 						<li>Screenshotapp (from Junesiphone)</li>
 						<li>SemiRestore 11</li>
+						<li>Show My Homework</li>
 						<li>Skiline Basic</li>
+						<li>Streaks Workout</li>
+						<li>Streaks</li>
 						<li>Streamlabs OBS</li>
 						<li>StudentVUE</li>
 						<li>TJ Intranet</li>
 						<li>TeacherVUE</li>
+						<li>Things 3</li>
+						<li>Trainline: Train and Bus App</li>
 						<li>Truyện Voz - vozForums - truyện f17 - truyện f145</li>
 						<li>Unc0ver</li>
 						<li>WeChat</li>
@@ -86,7 +97,17 @@
 		<change><![CDATA[
 		<span>Adds new icons for:</span>
 		<ul>
-			<li>Measure (The iOS 12 app)</li>
+			<li>Things 3</li>
+			<li>Streaks</li>
+			<li>Streaks Workout</li>
+			<li>HealthFace</li>
+			<li>Show My Homework</li>
+			<li>Pythonista 3</li>
+			<li>Class Timetable</li>
+			<li>NatWest Mobile Banking</li>
+			<li>NatWest International</li>
+			<li>Trainline: Train and Bus App</li>
+			<li>Provenance</li>
 		</ul>]]>
 		</change>
 	</changelog>

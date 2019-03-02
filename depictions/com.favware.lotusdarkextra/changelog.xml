@@ -1,5 +1,42 @@
 <changelog>
 	<changes>
+		<version>1.0.5</version>
+		<change><![CDATA[
+		<span>Adds new icons for:</span>
+		<ul>
+			<li>Acapella from PicPlayPost</li>
+			<li>BURGER KING® App (Various regional versions)</li>
+			<li>Babyphone 3g - baby monitor</li>
+			<li>Blitzer.de</li>
+			<li>Bose SoundTouch</li>
+			<li>Bring! Shopping List & Recipes</li>
+			<li>Coin Ticker: Bitcoin & Altcoin</li>
+			<li>Decibel Ultra pro</li>
+			<li>Decibel Ultra</li>
+			<li>EduLink One</li>
+			<li>Flic App</li>
+			<li>Fortune (4chan app, cydia)</li>
+			<li>FotMob Live Soccer Scores</li>
+			<li>GeoGebra Graphing Calculator</li>
+			<li>Jodel - Hyperlocal Community</li>
+			<li>Kodi</li>
+			<li>Music Memos</li>
+			<li>Pedometer++</li>
+			<li>Pillow Automatic Sleep Tracker</li>
+			<li>Sky Sports International</li>
+			<li>Sparkasse - Your mobile branch</li>
+			<li>Three (Three UK)</li>
+			<li>Tonies</li>
+			<li>Virgin TV Go</li>
+			<li>eBay (additional icons to existing one)</li>
+			<li>eBay Kleinanzeigen</li>
+			<li>mobile.de - Automarkt</li>
+			<li>tado° for Installers</li>
+			<li>tado°</li>
+		</ul>]]>
+		</change>
+	</changes>
+	<changes>
 		<version>1.0.4</version>
 		<change><![CDATA[
 		<span>Adds new icons for:</span>

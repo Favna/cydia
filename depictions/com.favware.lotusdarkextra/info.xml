@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra</name>
-	<version>1.0.5</version>
+	<version>1.0.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -19,12 +19,17 @@
 				<div class="card card-body">
 					<ul>
 						<li>1.1.1.1: Faster Internet</li>
+						<li>ALL-IN-ONE PACKAGE TRACKING (YQTRACK)</li>
 						<li>Acapella from PicPlayPost</li>
 						<li>AdminVUE</li>
+						<li>Afterlight 2</li>
 						<li>Agar.io</li>
 						<li>AirMail</li>
+						<li>Anchor Pointer Compass GPS</li>
 						<li>Arena of Valor</li>
+						<li>AudioRecorder</li>
 						<li>AutoTouch</li>
+						<li>Awesome Note 2</li>
 						<li>BURGER KING® App (Various regional versions)</li>
 						<li>Babyphone 3g - baby monitor</li>
 						<li>BanG Dream! Girls Band Party!</li>
@@ -34,8 +39,14 @@
 						<li>Brawl Stars</li>
 						<li>Bring! Shopping List & Recipes</li>
 						<li>Browser and Documents Manager</li>
+						<li>Buy Me a Pie! - Shopping List</li>
 						<li>BytaFont 3</li>
+						<li>CallLogPro (iOS 11/10/9/8)</li>
+						<li>CinemaPlus</li>
+						<li>CityGuide GPS-navigator</li>
 						<li>Class Timetable</li>
+						<li>CloudBeats: music player</li>
+						<li>Cr4shed</li>
 						<li>Coin Ticker: Bitcoin & Altcoin</li>
 						<li>Counter - Tally Counter</li>
 						<li>Datum Prikker</li>
@@ -43,30 +54,40 @@
 						<li>Decibel Ultra</li>
 						<li>Dragon City Mobile</li>
 						<li>EduLink One</li>
+						<li>English <-> Russian Dictionary</li>
 						<li>Entrust IdentifyGuard Mobile</li>
+						<li>ExpressVPN - #1 Trusted VPN</li>
 						<li>F.lux</li>
 						<li>Fandom</li>
 						<li>Flic App</li>
+						<li>Flightradar24 | Flight Tracker</li>
 						<li>Fortune (4chan app, cydia)</li>
 						<li>FotMob Live Soccer Scores</li>
 						<li>GeoGebra Graphing Calculator</li>
 						<li>Habitica: Gamified Taskmanager</li>
 						<li>HealthFace</li>
+						<li>Hesab.az</li>
 						<li>Hoppenhelm</li>
 						<li>Hornbach</li>
+						<li>IBA MobilBank</li>
+						<li>Ignition app installer</li>
 						<li>Ikea Store</li>
 						<li>Jodel - Hyperlocal Community</li>
 						<li>Jumbo (Dutch supermarket)</li>
 						<li>Knaek App</li>
 						<li>Kodi</li>
 						<li>Kodi</li>
+						<li>Lalafo Pulsuz Elanlar</li>
+						<li>Lingvo Dictionary Offline</li>
 						<li>Magikarp Jump</li>
 						<li>McDonalds (the new app)</li>
 						<li>Measure</li>
 						<li>MedGemak</li>
 						<li>Microsoft Remote Dekstop</li>
 						<li>Mijn DSW</li>
+						<li>MindNode 5</li>
 						<li>Mini Golf King</li>
+						<li>Money Pro: Personal Finance</li>
 						<li>Music Memos</li>
 						<li>MyThuas</li>
 						<li>NFCWriterX (from Limneos)</li>
@@ -75,10 +96,14 @@
 						<li>NatWest Mobile Banking</li>
 						<li>New York Pizza</li>
 						<li>NordVPN: VPN Fast & Unlimited</li>
+						<li>PDF Reader Pro Edition®</li>
+						<li>PLAYBULB 2.0</li>
 						<li>ParentVUE</li>
+						<li>Park Cinema</li>
 						<li>Pedometer++</li>
 						<li>Pillow Automatic Sleep Tracker</li>
 						<li>Pivotal Tracker</li>
+						<li>Pixelmator</li>
 						<li>Pleco Chinese Dictionary</li>
 						<li>Pleco</li>
 						<li>Provenance</li>
@@ -86,36 +111,60 @@
 						<li>Random.org</li>
 						<li>ReProvision (from Matchstic)</li>
 						<li>Rollectra</li>
+						<li>Rusiya <> Azərbaycan Lüğət (Russian Azerbaijani Dictionary)</li>
 						<li>Screenshotapp (from Junesiphone)</li>
 						<li>SemiRestore 11</li>
 						<li>Show My Homework</li>
 						<li>Skiline Basic</li>
 						<li>Sky Sports International</li>
+						<li>SoundHound - Music Discovery</li>
+						<li>SoundHound∞ - Music Discovery</li>
 						<li>Sparkasse - Your mobile branch</li>
 						<li>Streaks Workout</li>
 						<li>Streaks</li>
 						<li>Streamlabs OBS</li>
 						<li>StudentVUE</li>
 						<li>TJ Intranet</li>
+						<li>TOR DeepWeb Browser</li>
+						<li>TP-Link Tether</li>
+						<li>Tap.az</li>
+						<li>Tapatalk - 200,000+ Forums</li>
+						<li>Tapatalk Pro</li>
+						<li>Taxify</li>
 						<li>TeacherVUE</li>
+						<li>Telegram X</li>
 						<li>Things 3</li>
 						<li>Three (Three UK)</li>
 						<li>Tonies</li>
+						<li>TotalReader - ePub, DjVu, MOBI, FB2 Reader</li>
+						<li>TotalReader Pro - ePub, DjVu, MOBI, FB2 Reader</li>
 						<li>Trainline: Train and Bus App</li>
 						<li>Truyện Voz - vozForums - truyện f17 - truyện f145</li>
+						<li>Turbo.az</li>
+						<li>Uber Azerbaijan</li>
 						<li>Unc0ver</li>
+						<li>VK Music</li>
 						<li>Virgin TV Go</li>
 						<li>WeChat</li>
+						<li>WebMoney Keeper</li>
 						<li>Wehkamp</li>
 						<li>World of Tanks Blitz MMO</li>
+						<li>XE Currency Converter Pro</li>
+						<li>Yunisov TV (тв онлайн)</li>
 						<li>ZOOM Cloud Meetings</li>
 						<li>Zalo</li>
 						<li>eBay Kleinanzeigen</li>
+						<li>iCab Mobile (Web Browser)</li>
+						<li>iPolyglot</li>
 						<li>mobile.de - Automarkt</li>
+						<li>oneSafe 4 password manager</li>
+						<li>oneSafe Pix 4</li>
 						<li>tado° for Installers</li>
 						<li>tado°</li>
 						<li>vozForum</li>
 						<li>vozForums</li>
+						<li>«МегаФон» Личный кабинет (Megafon)</li>
+						<li>Объявления Авито (Avito)</li>
 					</ul>
 				</div>
 			</div>]]>
@@ -126,35 +175,55 @@
 		<change><![CDATA[
 		<span>Adds new icons for:</span>
 		<ul>
-			<li>Acapella from PicPlayPost</li>
-			<li>BURGER KING® App (Various regional versions)</li>
-			<li>Babyphone 3g - baby monitor</li>
-			<li>Blitzer.de</li>
-			<li>Bose SoundTouch</li>
-			<li>Bring! Shopping List & Recipes</li>
-			<li>Coin Ticker: Bitcoin & Altcoin</li>
-			<li>Decibel Ultra pro</li>
-			<li>Decibel Ultra</li>
-			<li>EduLink One</li>
-			<li>Flic App</li>
-			<li>Fortune (4chan app, cydia)</li>
-			<li>FotMob Live Soccer Scores</li>
-			<li>GeoGebra Graphing Calculator</li>
-			<li>Jodel - Hyperlocal Community</li>
-			<li>Kodi</li>
-			<li>Music Memos</li>
-			<li>Pedometer++</li>
-			<li>Pillow Automatic Sleep Tracker</li>
-			<li>Sky Sports International</li>
-			<li>Sparkasse - Your mobile branch</li>
-			<li>Three (Three UK)</li>
-			<li>Tonies</li>
-			<li>Virgin TV Go</li>
-			<li>eBay (additional icons to existing one)</li>
-			<li>eBay Kleinanzeigen</li>
-			<li>mobile.de - Automarkt</li>
-			<li>tado° for Installers</li>
-			<li>tado°</li>
+			<li>Afterlight 2</li>
+			<li>Anchor Pointer Compass GPS</li>
+			<li>XE Currency Converter Pro</li>
+			<li>AudioRecorder</li>
+			<li>Объявления Авито (Avito)</li>
+			<li>Awesome Note 2</li>
+			<li>CallLogPro (iOS 11/10/9/8)</li>
+			<li>CinemaPlus</li>
+			<li>CityGuide GPS-navigator</li>
+			<li>CloudBeats: music player</li>
+			<li>Cr4shed</li>
+			<li>ExpressVPN - #1 Trusted VPN</li>
+			<li>Flightradar24 | Flight Tracker</li>
+			<li>Hesab.az</li>
+			<li>iCab Mobile (Web Browser)</li>
+			<li>Ignition app installer</li>
+			<li>IBA MobilBank</li>
+			<li>iPolyglot</li>
+			<li>Lalafo Pulsuz Elanlar</li>
+			<li>Lingvo Dictionary Offline</li>
+			<li>Yunisov TV (тв онлайн)</li>
+			<li>«МегаФон» Личный кабинет (Megafon)</li>
+			<li>MindNode 5</li>
+			<li>Money Pro: Personal Finance</li>
+			<li>WebMoney Keeper</li>
+			<li>Buy Me a Pie! - Shopping List</li>
+			<li>oneSafe 4 password manager</li>
+			<li>oneSafe Pix 4</li>
+			<li>Park Cinema</li>
+			<li>PDF Reader Pro Edition®</li>
+			<li>English <-> Russian Dictionary</li>
+			<li>Pixelmator</li>
+			<li>PLAYBULB 2.0</li>
+			<li>Rusiya <> Azərbaycan Lüğət (Russian Azerbaijani Dictionary)</li>
+			<li>SoundHound - Music Discovery</li>
+			<li>SoundHound∞ - Music Discovery</li>
+			<li>Tapatalk - 200,000+ Forums</li>
+			<li>Tapatalk Pro</li>
+			<li>Tap.az</li>
+			<li>Taxify</li>
+			<li>Telegram X</li>
+			<li>TP-Link Tether</li>
+			<li>TOR DeepWeb Browser</li>
+			<li>TotalReader - ePub, DjVu, MOBI, FB2 Reader</li>
+			<li>TotalReader Pro - ePub, DjVu, MOBI, FB2 Reader</li>
+			<li>Turbo.az</li>
+			<li>Uber Azerbaijan</li>
+			<li>VK Music</li>
+			<li>ALL-IN-ONE PACKAGE TRACKING (YQTRACK)</li>
 		</ul>]]>
 		</change>
 	</changelog>

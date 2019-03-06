@@ -1,6 +1,23 @@
 <changelog>
 	<changes>
-		<version>1.0.6</version>
+		<version>1.0.8</version>
+		<change><![CDATA[
+		<span>Adds new icons for:</span>
+		<ul>
+			<li>Skype (alternative icon, using Discord Dark Blurple for a darker sheen)</li>
+		</ul>
+		<br/>
+		<span> Updated icons for: </span>
+		<ul>
+			<li>CityGuide GPS-navigator</li>
+			<li>Tap.az</li>
+			<li>Turbo.az</li>
+			<li>English <-> Russian Dictionary</li>
+		</ul>]]>
+		</change>
+	</changes>
+	<changes>
+		<version>1.0.7</version>
 		<change><![CDATA[
 		<span>Adds new icons for:</span>
 		<ul>
@@ -34,7 +51,6 @@
 			<li>oneSafe Pix 4</li>
 			<li>Park Cinema</li>
 			<li>PDF Reader Pro Edition®</li>
-			<li>English <-> Russian Dictionary</li>
 			<li>Pixelmator</li>
 			<li>PLAYBULB 2.0</li>
 			<li>Rusiya <> Azərbaycan Lüğət (Russian Azerbaijani Dictionary)</li>

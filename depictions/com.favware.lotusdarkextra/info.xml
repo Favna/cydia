@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra</name>
-	<version>1.0.8</version>
+	<version>1.0.9</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -19,20 +19,27 @@
 				<div class="card card-body">
 					<ul>
 						<li>1.1.1.1: Faster Internet</li>
+						<li>5-0 Radio Police Scanner</li>
+						<li>5-0 Radio Pro Police Scanner</li>
 						<li>ALL-IN-ONE PACKAGE TRACKING (YQTRACK)</li>
 						<li>Acapella from PicPlayPost</li>
 						<li>AdminVUE</li>
 						<li>Afterlight 2</li>
 						<li>Agar.io</li>
 						<li>AirMail</li>
+						<li>AllTrails: Hike, Run & Cycle</li>
 						<li>Anchor Pointer Compass GPS</li>
 						<li>Arena of Valor</li>
+						<li>Arlo (from NETGEAR)</li>
 						<li>AudioRecorder</li>
 						<li>AutoTouch</li>
 						<li>Awesome Note 2</li>
 						<li>BURGER KING® App (Various regional versions)</li>
 						<li>Babyphone 3g - baby monitor</li>
 						<li>BanG Dream! Girls Band Party!</li>
+						<li>Best Buy</li>
+						<li>Bird - Enjoy The Ride</li>
+						<li>Black Friday 2018 Ads Shopping</li>
 						<li>BlackBoard</li>
 						<li>Blitzer.de</li>
 						<li>Bose SoundTouch</li>
@@ -41,14 +48,17 @@
 						<li>Browser and Documents Manager</li>
 						<li>Buy Me a Pie! - Shopping List</li>
 						<li>BytaFont 3</li>
+						<li>Cabela’s</li>
 						<li>CallLogPro (iOS 11/10/9/8)</li>
 						<li>CinemaPlus</li>
 						<li>CityGuide GPS-navigator</li>
 						<li>Class Timetable</li>
 						<li>CloudBeats: music player</li>
-						<li>Cr4shed</li>
 						<li>Coin Ticker: Bitcoin & Altcoin</li>
 						<li>Counter - Tally Counter</li>
+						<li>Cox Connect</li>
+						<li>Cox Contour</li>
+						<li>Cr4shed</li>
 						<li>Datum Prikker</li>
 						<li>Decibel Ultra pro</li>
 						<li>Decibel Ultra</li>
@@ -61,14 +71,17 @@
 						<li>Fandom</li>
 						<li>Flic App</li>
 						<li>Flightradar24 | Flight Tracker</li>
+						<li>Followers Pro + for Instagram</li>
 						<li>Fortune (4chan app, cydia)</li>
 						<li>FotMob Live Soccer Scores</li>
 						<li>GeoGebra Graphing Calculator</li>
+						<li>HP Smart</li>
 						<li>Habitica: Gamified Taskmanager</li>
 						<li>HealthFace</li>
 						<li>Hesab.az</li>
 						<li>Hoppenhelm</li>
 						<li>Hornbach</li>
+						<li>Huuuge Casino - Slot Machines</li>
 						<li>IBA MobilBank</li>
 						<li>Ignition app installer</li>
 						<li>Ikea Store</li>
@@ -77,7 +90,9 @@
 						<li>Knaek App</li>
 						<li>Kodi</li>
 						<li>Kodi</li>
+						<li>LG TV Plus</li>
 						<li>Lalafo Pulsuz Elanlar</li>
+						<li>Lime - Your Ride Anytime</li>
 						<li>Lingvo Dictionary Offline</li>
 						<li>Magikarp Jump</li>
 						<li>McDonalds (the new app)</li>
@@ -90,17 +105,26 @@
 						<li>Money Pro: Personal Finance</li>
 						<li>Music Memos</li>
 						<li>MyThuas</li>
+						<li>NETGEAR Genie</li>
+						<li>NETGEAR Insight</li>
+						<li>NETGEAR Mobile</li>
+						<li>NETGEAR Orbi</li>
 						<li>NFCWriterX (from Limneos)</li>
 						<li>NXBoot (from mologie)</li>
 						<li>NatWest International</li>
 						<li>NatWest Mobile Banking</li>
 						<li>New York Pizza</li>
+						<li>Nighthawk (from NETGEAR)</li>
 						<li>NordVPN: VPN Fast & Unlimited</li>
+						<li>OneTracker - Package Tracking</li>
 						<li>PDF Reader Pro Edition®</li>
 						<li>PLAYBULB 2.0</li>
+						<li>POP! Slots - Casino Slot Games</li>
 						<li>ParentVUE</li>
 						<li>Park Cinema</li>
 						<li>Pedometer++</li>
+						<li>Periscope Live Video Streaming</li>
+						<li>PicsArt Photo Editor + Collage</li>
 						<li>Pillow Automatic Sleep Tracker</li>
 						<li>Pivotal Tracker</li>
 						<li>Pixelmator</li>
@@ -117,6 +141,7 @@
 						<li>Show My Homework</li>
 						<li>Skiline Basic</li>
 						<li>Sky Sports International</li>
+						<li>Sleep Watch by Bodymatter</li>
 						<li>SoundHound - Music Discovery</li>
 						<li>SoundHound∞ - Music Discovery</li>
 						<li>Sparkasse - Your mobile branch</li>
@@ -127,22 +152,27 @@
 						<li>TJ Intranet</li>
 						<li>TOR DeepWeb Browser</li>
 						<li>TP-Link Tether</li>
+						<li>Taco Bell</li>
 						<li>Tap.az</li>
 						<li>Tapatalk - 200,000+ Forums</li>
 						<li>Tapatalk Pro</li>
 						<li>Taxify</li>
 						<li>TeacherVUE</li>
 						<li>Telegram X</li>
+						<li>TextNow: Call + Text Unlimited</li>
 						<li>Things 3</li>
 						<li>Three (Three UK)</li>
 						<li>Tonies</li>
 						<li>TotalReader - ePub, DjVu, MOBI, FB2 Reader</li>
 						<li>TotalReader Pro - ePub, DjVu, MOBI, FB2 Reader</li>
 						<li>Trainline: Train and Bus App</li>
+						<li>Truecaller</li>
 						<li>Truyện Voz - vozForums - truyện f17 - truyện f145</li>
 						<li>Turbo.az</li>
+						<li>Twitter++ (from Ignition)</li>
 						<li>Uber Azerbaijan</li>
 						<li>Unc0ver</li>
+						<li>Underworld Empire</li>
 						<li>VK Music</li>
 						<li>Virgin TV Go</li>
 						<li>WeChat</li>
@@ -153,10 +183,14 @@
 						<li>Yunisov TV (тв онлайн)</li>
 						<li>ZOOM Cloud Meetings</li>
 						<li>Zalo</li>
+						<li>ampm Scratch Power</li>
 						<li>eBay Kleinanzeigen</li>
 						<li>iCab Mobile (Web Browser)</li>
 						<li>iPolyglot</li>
+						<li>iTranslate Translator</li>
+						<li>letgo: Buy & Sell Used Stuff</li>
 						<li>mobile.de - Automarkt</li>
+						<li>onX Hunt: #1 GPS Hunting Map</li>
 						<li>oneSafe 4 password manager</li>
 						<li>oneSafe Pix 4</li>
 						<li>tado° for Installers</li>
@@ -175,14 +209,40 @@
 		<change><![CDATA[
 		<span>Adds new icons for:</span>
 		<ul>
-			<li>Skype (alternative icon, using Discord Dark Blurple for a darker sheen)</li>
-		</ul>
-		<br/>
-		<span> Updated icons for: </span>
-		<ul>
-			<li>CityGuide GPS-navigator</li>
-			<li>Tap.az</li>
-			<li>Turbo.az</li>
+			<li>5-0 Radio Police Scanner</li>
+			<li>5-0 Radio Pro Police Scanner</li>
+			<li>AllTrails: Hike, Run & Cycle</li>
+			<li>Arlo (from NETGEAR)</li>
+			<li>Best Buy</li>
+			<li>Bird - Enjoy The Ride</li>
+			<li>Black Friday 2018 Ads Shopping</li>
+			<li>Cabela’s</li>
+			<li>Cox Connect</li>
+			<li>Cox Contour</li>
+			<li>Followers Pro + for Instagram</li>
+			<li>HP Smart</li>
+			<li>Huuuge Casino - Slot Machines</li>
+			<li>LG TV Plus</li>
+			<li>Lime - Your Ride Anytime</li>
+			<li>NETGEAR Genie</li>
+			<li>NETGEAR Insight</li>
+			<li>NETGEAR Mobile</li>
+			<li>NETGEAR Orbi</li>
+			<li>Nighthawk (from NETGEAR)</li>
+			<li>OneTracker - Package Tracking</li>
+			<li>POP! Slots - Casino Slot Games</li>
+			<li>Periscope Live Video Streaming</li>
+			<li>PicsArt Photo Editor + Collage</li>
+			<li>Sleep Watch by Bodymatter</li>
+			<li>Taco Bell</li>
+			<li>TextNow: Call + Text Unlimited</li>
+			<li>Truecaller</li>
+			<li>Twitter++ (from Ignition)</li>
+			<li>Underworld Empire</li>
+			<li>ampm Scratch Power</li>
+			<li>iTranslate Translator</li>
+			<li>letgo: Buy & Sell Used Stuff</li>
+			<li>onX Hunt: #1 GPS Hunting Map</li>
 		</ul>]]>
 		</change>
 	</changelog>

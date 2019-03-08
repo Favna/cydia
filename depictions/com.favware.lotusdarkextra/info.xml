@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra</name>
-	<version>1.0.9</version>
+	<version>1.0.10</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -62,6 +62,7 @@
 						<li>Datum Prikker</li>
 						<li>Decibel Ultra pro</li>
 						<li>Decibel Ultra</li>
+						<li>Deezer: Music & Postcast Player</li>
 						<li>Dragon City Mobile</li>
 						<li>EduLink One</li>
 						<li>English <-> Russian Dictionary</li>
@@ -72,6 +73,7 @@
 						<li>Flic App</li>
 						<li>Flightradar24 | Flight Tracker</li>
 						<li>Followers Pro + for Instagram</li>
+						<li>Followers Plus + for Instagram</li>
 						<li>Fortune (4chan app, cydia)</li>
 						<li>FotMob Live Soccer Scores</li>
 						<li>GeoGebra Graphing Calculator</li>
@@ -209,40 +211,8 @@
 		<change><![CDATA[
 		<span>Adds new icons for:</span>
 		<ul>
-			<li>5-0 Radio Police Scanner</li>
-			<li>5-0 Radio Pro Police Scanner</li>
-			<li>AllTrails: Hike, Run & Cycle</li>
-			<li>Arlo (from NETGEAR)</li>
-			<li>Best Buy</li>
-			<li>Bird - Enjoy The Ride</li>
-			<li>Black Friday 2018 Ads Shopping</li>
-			<li>Cabela’s</li>
-			<li>Cox Connect</li>
-			<li>Cox Contour</li>
 			<li>Followers Pro + for Instagram</li>
-			<li>HP Smart</li>
-			<li>Huuuge Casino - Slot Machines</li>
-			<li>LG TV Plus</li>
-			<li>Lime - Your Ride Anytime</li>
-			<li>NETGEAR Genie</li>
-			<li>NETGEAR Insight</li>
-			<li>NETGEAR Mobile</li>
-			<li>NETGEAR Orbi</li>
-			<li>Nighthawk (from NETGEAR)</li>
-			<li>OneTracker - Package Tracking</li>
-			<li>POP! Slots - Casino Slot Games</li>
-			<li>Periscope Live Video Streaming</li>
-			<li>PicsArt Photo Editor + Collage</li>
-			<li>Sleep Watch by Bodymatter</li>
-			<li>Taco Bell</li>
-			<li>TextNow: Call + Text Unlimited</li>
-			<li>Truecaller</li>
-			<li>Twitter++ (from Ignition)</li>
-			<li>Underworld Empire</li>
-			<li>ampm Scratch Power</li>
-			<li>iTranslate Translator</li>
-			<li>letgo: Buy & Sell Used Stuff</li>
-			<li>onX Hunt: #1 GPS Hunting Map</li>
+			<li>Deezer: Music & Postcast Player</li>
 		</ul>]]>
 		</change>
 	</changelog>

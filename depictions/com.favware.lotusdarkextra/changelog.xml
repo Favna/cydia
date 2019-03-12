@@ -1,5 +1,25 @@
 <changelog>
 	<changes>
+		<version>1.0.11</version>
+		<change><![CDATA[
+		<span>Adds new icons for:</span>
+		<ul>
+			<li>Marriott Bonvoy</li>
+			<li>Schwab Mobile</li>
+			<li>magicApp Calling & Messaging</li>
+			<li>Serve</li>
+			<li>Hyatt Hotels</li>
+			<li>Priority Pass™</li>
+			<li>Wynn Slots - Vegas Casino Slot</li>
+			<li>Kcast Gold Live!+</li>
+			<li>Dosh: Automatic Cash Back App</li>
+			<li>Watch TBS</li>
+			<li>Hilton Honors: Book Hotels</li>
+			<li>Pokémon TV</li>
+		</ul>]]>
+		</change>
+	</changes>
+	<changes>
 		<version>1.0.10</version>
 		<change><![CDATA[
 		<span>Adds new icons for:</span>

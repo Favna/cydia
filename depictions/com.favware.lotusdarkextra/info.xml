@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra</name>
-	<version>1.0.10</version>
+	<version>1.0.11</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -63,6 +63,7 @@
 						<li>Decibel Ultra pro</li>
 						<li>Decibel Ultra</li>
 						<li>Deezer: Music & Postcast Player</li>
+						<li>Dosh: Automatic Cash Back App</li>
 						<li>Dragon City Mobile</li>
 						<li>EduLink One</li>
 						<li>English <-> Russian Dictionary</li>
@@ -72,8 +73,8 @@
 						<li>Fandom</li>
 						<li>Flic App</li>
 						<li>Flightradar24 | Flight Tracker</li>
-						<li>Followers Pro + for Instagram</li>
 						<li>Followers Plus + for Instagram</li>
+						<li>Followers Pro + for Instagram</li>
 						<li>Fortune (4chan app, cydia)</li>
 						<li>FotMob Live Soccer Scores</li>
 						<li>GeoGebra Graphing Calculator</li>
@@ -81,14 +82,17 @@
 						<li>Habitica: Gamified Taskmanager</li>
 						<li>HealthFace</li>
 						<li>Hesab.az</li>
+						<li>Hilton Honors: Book Hotels</li>
 						<li>Hoppenhelm</li>
 						<li>Hornbach</li>
 						<li>Huuuge Casino - Slot Machines</li>
+						<li>Hyatt Hotels</li>
 						<li>IBA MobilBank</li>
 						<li>Ignition app installer</li>
 						<li>Ikea Store</li>
 						<li>Jodel - Hyperlocal Community</li>
 						<li>Jumbo (Dutch supermarket)</li>
+						<li>Kcast Gold Live!+</li>
 						<li>Knaek App</li>
 						<li>Kodi</li>
 						<li>Kodi</li>
@@ -97,6 +101,7 @@
 						<li>Lime - Your Ride Anytime</li>
 						<li>Lingvo Dictionary Offline</li>
 						<li>Magikarp Jump</li>
+						<li>Marriott Bonvoy</li>
 						<li>McDonalds (the new app)</li>
 						<li>Measure</li>
 						<li>MedGemak</li>
@@ -132,14 +137,18 @@
 						<li>Pixelmator</li>
 						<li>Pleco Chinese Dictionary</li>
 						<li>Pleco</li>
+						<li>Pokémon TV</li>
+						<li>Priority Pass™</li>
 						<li>Provenance</li>
 						<li>Pythonista 3</li>
 						<li>Random.org</li>
 						<li>ReProvision (from Matchstic)</li>
 						<li>Rollectra</li>
 						<li>Rusiya <> Azərbaycan Lüğət (Russian Azerbaijani Dictionary)</li>
+						<li>Schwab Mobile</li>
 						<li>Screenshotapp (from Junesiphone)</li>
 						<li>SemiRestore 11</li>
+						<li>Serve</li>
 						<li>Show My Homework</li>
 						<li>Skiline Basic</li>
 						<li>Sky Sports International</li>
@@ -177,10 +186,12 @@
 						<li>Underworld Empire</li>
 						<li>VK Music</li>
 						<li>Virgin TV Go</li>
+						<li>Watch TBS</li>
 						<li>WeChat</li>
 						<li>WebMoney Keeper</li>
 						<li>Wehkamp</li>
 						<li>World of Tanks Blitz MMO</li>
+						<li>Wynn Slots - Vegas Casino Slot</li>
 						<li>XE Currency Converter Pro</li>
 						<li>Yunisov TV (тв онлайн)</li>
 						<li>ZOOM Cloud Meetings</li>
@@ -191,6 +202,7 @@
 						<li>iPolyglot</li>
 						<li>iTranslate Translator</li>
 						<li>letgo: Buy & Sell Used Stuff</li>
+						<li>magicApp Calling & Messaging</li>
 						<li>mobile.de - Automarkt</li>
 						<li>onX Hunt: #1 GPS Hunting Map</li>
 						<li>oneSafe 4 password manager</li>
@@ -211,8 +223,18 @@
 		<change><![CDATA[
 		<span>Adds new icons for:</span>
 		<ul>
-			<li>Followers Pro + for Instagram</li>
-			<li>Deezer: Music & Postcast Player</li>
+			<li>Marriott Bonvoy</li>
+			<li>Schwab Mobile</li>
+			<li>magicApp Calling & Messaging</li>
+			<li>Serve</li>
+			<li>Hyatt Hotels</li>
+			<li>Priority Pass™</li>
+			<li>Wynn Slots - Vegas Casino Slot</li>
+			<li>Kcast Gold Live!+</li>
+			<li>Dosh: Automatic Cash Back App</li>
+			<li>Watch TBS</li>
+			<li>Hilton Honors: Book Hotels</li>
+			<li>Pokémon TV</li>
 		</ul>]]>
 		</change>
 	</changelog>

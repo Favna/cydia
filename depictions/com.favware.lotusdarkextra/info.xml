@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra</name>
-	<version>1.0.11</version>
+	<version>1.0.12</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -88,6 +88,7 @@
 						<li>Huuuge Casino - Slot Machines</li>
 						<li>Hyatt Hotels</li>
 						<li>IBA MobilBank</li>
+						<li>iFont: find, install any font!</li>
 						<li>Ignition app installer</li>
 						<li>Ikea Store</li>
 						<li>Jodel - Hyperlocal Community</li>
@@ -223,18 +224,12 @@
 		<change><![CDATA[
 		<span>Adds new icons for:</span>
 		<ul>
-			<li>Marriott Bonvoy</li>
-			<li>Schwab Mobile</li>
-			<li>magicApp Calling & Messaging</li>
+			<li>iFont: find, install any font!</li>
+		</ul>
+		<br/>
+		<span> Updated icons for: </span>
+		<ul>
 			<li>Serve</li>
-			<li>Hyatt Hotels</li>
-			<li>Priority Pass™</li>
-			<li>Wynn Slots - Vegas Casino Slot</li>
-			<li>Kcast Gold Live!+</li>
-			<li>Dosh: Automatic Cash Back App</li>
-			<li>Watch TBS</li>
-			<li>Hilton Honors: Book Hotels</li>
-			<li>Pokémon TV</li>
 		</ul>]]>
 		</change>
 	</changelog>

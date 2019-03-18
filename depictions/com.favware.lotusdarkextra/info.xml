@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra</name>
-	<version>1.0.12</version>
+	<version>1.0.13</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -18,23 +18,26 @@
 			<![CDATA[<div class="collapse" id="iconList">
 				<div class="card card-body">
 					<ul>
+						<li>«МегаФон» Личный кабинет (Megafon)</li>
 						<li>1.1.1.1: Faster Internet</li>
+						<li>2Do - Todo List, Tasks & Notes</li>
 						<li>5-0 Radio Police Scanner</li>
 						<li>5-0 Radio Pro Police Scanner</li>
-						<li>ALL-IN-ONE PACKAGE TRACKING (YQTRACK)</li>
 						<li>Acapella from PicPlayPost</li>
 						<li>AdminVUE</li>
 						<li>Afterlight 2</li>
 						<li>Agar.io</li>
 						<li>AirMail</li>
+						<li>ALL-IN-ONE PACKAGE TRACKING (YQTRACK)</li>
 						<li>AllTrails: Hike, Run & Cycle</li>
+						<li>ampm Scratch Power</li>
 						<li>Anchor Pointer Compass GPS</li>
+						<li>Animal Crossing: Pocket Camp</li>
 						<li>Arena of Valor</li>
 						<li>Arlo (from NETGEAR)</li>
 						<li>AudioRecorder</li>
 						<li>AutoTouch</li>
 						<li>Awesome Note 2</li>
-						<li>BURGER KING® App (Various regional versions)</li>
 						<li>Babyphone 3g - baby monitor</li>
 						<li>BanG Dream! Girls Band Party!</li>
 						<li>Best Buy</li>
@@ -46,16 +49,20 @@
 						<li>Brawl Stars</li>
 						<li>Bring! Shopping List & Recipes</li>
 						<li>Browser and Documents Manager</li>
+						<li>BURGER KING® App (Various regional versions)</li>
 						<li>Buy Me a Pie! - Shopping List</li>
 						<li>BytaFont 3</li>
 						<li>Cabela’s</li>
 						<li>CallLogPro (iOS 11/10/9/8)</li>
+						<li>Capo touch</li>
 						<li>CinemaPlus</li>
 						<li>CityGuide GPS-navigator</li>
 						<li>Class Timetable</li>
 						<li>CloudBeats: music player</li>
 						<li>Coin Ticker: Bitcoin & Altcoin</li>
+						<li>Convertible: Unit Converter</li>
 						<li>Counter - Tally Counter</li>
+						<li>Coursera: Top online courses</li>
 						<li>Cox Connect</li>
 						<li>Cox Contour</li>
 						<li>Cr4shed</li>
@@ -63,14 +70,18 @@
 						<li>Decibel Ultra pro</li>
 						<li>Decibel Ultra</li>
 						<li>Deezer: Music & Postcast Player</li>
+						<li>Degoo</li>
+						<li>DJI GO 4</li>
 						<li>Dosh: Automatic Cash Back App</li>
 						<li>Dragon City Mobile</li>
+						<li>eBay Kleinanzeigen</li>
 						<li>EduLink One</li>
 						<li>English <-> Russian Dictionary</li>
 						<li>Entrust IdentifyGuard Mobile</li>
 						<li>ExpressVPN - #1 Trusted VPN</li>
 						<li>F.lux</li>
 						<li>Fandom</li>
+						<li>FiLMiC Pro</li>
 						<li>Flic App</li>
 						<li>Flightradar24 | Flight Tracker</li>
 						<li>Followers Plus + for Instagram</li>
@@ -78,29 +89,38 @@
 						<li>Fortune (4chan app, cydia)</li>
 						<li>FotMob Live Soccer Scores</li>
 						<li>GeoGebra Graphing Calculator</li>
-						<li>HP Smart</li>
+						<li>GoodReader</li>
 						<li>Habitica: Gamified Taskmanager</li>
+						<li>Headspace: Meditation & Sleep</li>
 						<li>HealthFace</li>
 						<li>Hesab.az</li>
 						<li>Hilton Honors: Book Hotels</li>
 						<li>Hoppenhelm</li>
 						<li>Hornbach</li>
+						<li>HP Smart</li>
 						<li>Huuuge Casino - Slot Machines</li>
 						<li>Hyatt Hotels</li>
 						<li>IBA MobilBank</li>
+						<li>iCab Mobile (Web Browser)</li>
+						<li>iDB app</li>
 						<li>iFont: find, install any font!</li>
 						<li>Ignition app installer</li>
 						<li>Ikea Store</li>
+						<li>iPolyglot</li>
+						<li>iTranslate Translator</li>
 						<li>Jodel - Hyperlocal Community</li>
 						<li>Jumbo (Dutch supermarket)</li>
 						<li>Kcast Gold Live!+</li>
+						<li>Kenya Red Cross (KRCS) App</li>
 						<li>Knaek App</li>
 						<li>Kodi</li>
 						<li>Kodi</li>
-						<li>LG TV Plus</li>
 						<li>Lalafo Pulsuz Elanlar</li>
+						<li>letgo: Buy & Sell Used Stuff</li>
+						<li>LG TV Plus</li>
 						<li>Lime - Your Ride Anytime</li>
 						<li>Lingvo Dictionary Offline</li>
+						<li>magicApp Calling & Messaging</li>
 						<li>Magikarp Jump</li>
 						<li>Marriott Bonvoy</li>
 						<li>McDonalds (the new app)</li>
@@ -108,44 +128,60 @@
 						<li>MedGemak</li>
 						<li>Microsoft Remote Dekstop</li>
 						<li>Mijn DSW</li>
+						<li>Mind Mapping - MindMeister</li>
+						<li>Mindly (mind mapping)</li>
+						<li>Mindly Plus</li>
 						<li>MindNode 5</li>
 						<li>Mini Golf King</li>
+						<li>mobile.de - Automarkt</li>
 						<li>Money Pro: Personal Finance</li>
+						<li>Musemage</li>
 						<li>Music Memos</li>
 						<li>MyThuas</li>
+						<li>NatWest International</li>
+						<li>NatWest Mobile Banking</li>
 						<li>NETGEAR Genie</li>
 						<li>NETGEAR Insight</li>
 						<li>NETGEAR Mobile</li>
 						<li>NETGEAR Orbi</li>
-						<li>NFCWriterX (from Limneos)</li>
-						<li>NXBoot (from mologie)</li>
-						<li>NatWest International</li>
-						<li>NatWest Mobile Banking</li>
 						<li>New York Pizza</li>
+						<li>NFCWriterX (from Limneos)</li>
 						<li>Nighthawk (from NETGEAR)</li>
 						<li>NordVPN: VPN Fast & Unlimited</li>
+						<li>NXBoot (from mologie)</li>
+						<li>OfficeSuite & PDF editor</li>
+						<li>oneSafe 4 password manager</li>
+						<li>oneSafe Pix 4</li>
 						<li>OneTracker - Package Tracking</li>
-						<li>PDF Reader Pro Edition®</li>
-						<li>PLAYBULB 2.0</li>
-						<li>POP! Slots - Casino Slot Games</li>
+						<li>onX Hunt: #1 GPS Hunting Map</li>
 						<li>ParentVUE</li>
 						<li>Park Cinema</li>
+						<li>PDF Reader Pro Edition®</li>
 						<li>Pedometer++</li>
 						<li>Periscope Live Video Streaming</li>
+						<li>PhotoGrid - Video & Pic Editor</li>
 						<li>PicsArt Photo Editor + Collage</li>
 						<li>Pillow Automatic Sleep Tracker</li>
 						<li>Pivotal Tracker</li>
 						<li>Pixelmator</li>
+						<li>Pixlr - Photo Collages, Effect</li>
+						<li>PLAYBULB 2.0</li>
 						<li>Pleco Chinese Dictionary</li>
 						<li>Pleco</li>
 						<li>Pokémon TV</li>
+						<li>POP! Slots - Casino Slot Games</li>
+						<li>Practice+ Tuner & Metronome</li>
 						<li>Priority Pass™</li>
+						<li>Prisma Photo Editor</li>
 						<li>Provenance</li>
 						<li>Pythonista 3</li>
+						<li>Quik - GoPro Video Editor</li>
 						<li>Random.org</li>
 						<li>ReProvision (from Matchstic)</li>
 						<li>Rollectra</li>
 						<li>Rusiya <> Azərbaycan Lüğət (Russian Azerbaijani Dictionary)</li>
+						<li>Scanbot Pro: Scanner App & Fax</li>
+						<li>Scanbot Scanner App - Scan PDF</li>
 						<li>Schwab Mobile</li>
 						<li>Screenshotapp (from Junesiphone)</li>
 						<li>SemiRestore 11</li>
@@ -161,10 +197,9 @@
 						<li>Streaks</li>
 						<li>Streamlabs OBS</li>
 						<li>StudentVUE</li>
-						<li>TJ Intranet</li>
-						<li>TOR DeepWeb Browser</li>
-						<li>TP-Link Tether</li>
 						<li>Taco Bell</li>
+						<li>tado° for Installers</li>
+						<li>tado°</li>
 						<li>Tap.az</li>
 						<li>Tapatalk - 200,000+ Forums</li>
 						<li>Tapatalk Pro</li>
@@ -174,9 +209,12 @@
 						<li>TextNow: Call + Text Unlimited</li>
 						<li>Things 3</li>
 						<li>Three (Three UK)</li>
+						<li>TJ Intranet</li>
 						<li>Tonies</li>
+						<li>TOR DeepWeb Browser</li>
 						<li>TotalReader - ePub, DjVu, MOBI, FB2 Reader</li>
 						<li>TotalReader Pro - ePub, DjVu, MOBI, FB2 Reader</li>
+						<li>TP-Link Tether</li>
 						<li>Trainline: Train and Bus App</li>
 						<li>Truecaller</li>
 						<li>Truyện Voz - vozForums - truyện f17 - truyện f145</li>
@@ -185,34 +223,21 @@
 						<li>Uber Azerbaijan</li>
 						<li>Unc0ver</li>
 						<li>Underworld Empire</li>
-						<li>VK Music</li>
 						<li>Virgin TV Go</li>
+						<li>VK Music</li>
+						<li>vozForum</li>
+						<li>vozForums</li>
 						<li>Watch TBS</li>
-						<li>WeChat</li>
 						<li>WebMoney Keeper</li>
+						<li>WeChat</li>
 						<li>Wehkamp</li>
+						<li>Wikipedia</li>
 						<li>World of Tanks Blitz MMO</li>
 						<li>Wynn Slots - Vegas Casino Slot</li>
 						<li>XE Currency Converter Pro</li>
 						<li>Yunisov TV (тв онлайн)</li>
-						<li>ZOOM Cloud Meetings</li>
 						<li>Zalo</li>
-						<li>ampm Scratch Power</li>
-						<li>eBay Kleinanzeigen</li>
-						<li>iCab Mobile (Web Browser)</li>
-						<li>iPolyglot</li>
-						<li>iTranslate Translator</li>
-						<li>letgo: Buy & Sell Used Stuff</li>
-						<li>magicApp Calling & Messaging</li>
-						<li>mobile.de - Automarkt</li>
-						<li>onX Hunt: #1 GPS Hunting Map</li>
-						<li>oneSafe 4 password manager</li>
-						<li>oneSafe Pix 4</li>
-						<li>tado° for Installers</li>
-						<li>tado°</li>
-						<li>vozForum</li>
-						<li>vozForums</li>
-						<li>«МегаФон» Личный кабинет (Megafon)</li>
+						<li>ZOOM Cloud Meetings</li>
 						<li>Объявления Авито (Avito)</li>
 					</ul>
 				</div>
@@ -224,12 +249,31 @@
 		<change><![CDATA[
 		<span>Adds new icons for:</span>
 		<ul>
-			<li>iFont: find, install any font!</li>
-		</ul>
-		<br/>
-		<span> Updated icons for: </span>
-		<ul>
-			<li>Serve</li>
+			<li>Animal Crossing: Pocket Camp</li>
+			<li>iDB app</li>
+			<li>Wikipedia</li>
+			<li>GoodReader</li>
+			<li>Scanbot Scanner App - Scan PDF</li>
+			<li>Scanbot Pro: Scanner App & Fax</li>
+			<li>2Do - Todo List, Tasks & Notes</li>
+			<li>Mind Mapping - MindMeister</li>
+			<li>DJI GO 4</li>
+			<li>Mindly (mind mapping)</li>
+			<li>Mindly Plus</li>
+			<li>Degoo</li>
+			<li>Convertible: Unit Converter</li>
+			<li>Capo touch</li>
+			<li>Practice+ Tuner & Metronome</li>
+			<li>Prisma Photo Editor</li>
+			<li>PhotoGrid - Video & Pic Editor</li>
+			<li>Pixlr - Photo Collages, Effect</li>
+			<li>FiLMiC Pro</li>
+			<li>Musemage</li>
+			<li>Quik - GoPro Video Editor</li>
+			<li>OfficeSuite & PDF editor</li>
+			<li>Coursera: Top online courses</li>
+			<li>Kenya Red Cross (KRCS) App</li>
+			<li>Headspace: Meditation & Sleep</li>
 		</ul>]]>
 		</change>
 	</changelog>

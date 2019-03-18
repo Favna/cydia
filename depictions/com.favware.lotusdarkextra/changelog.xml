@@ -1,5 +1,38 @@
 <changelog>
 	<changes>
+		<version>1.0.13</version>
+		<change><![CDATA[
+		<span>Adds new icons for:</span>
+		<ul>
+			<li>Animal Crossing: Pocket Camp</li>
+			<li>iDB app</li>
+			<li>Wikipedia</li>
+			<li>GoodReader</li>
+			<li>Scanbot Scanner App - Scan PDF</li>
+			<li>Scanbot Pro: Scanner App & Fax</li>
+			<li>2Do - Todo List, Tasks & Notes</li>
+			<li>Mind Mapping - MindMeister</li>
+			<li>DJI GO 4</li>
+			<li>Mindly (mind mapping)</li>
+			<li>Mindly Plus</li>
+			<li>Degoo</li>
+			<li>Convertible: Unit Converter</li>
+			<li>Capo touch</li>
+			<li>Practice+ Tuner & Metronome</li>
+			<li>Prisma Photo Editor</li>
+			<li>PhotoGrid - Video & Pic Editor</li>
+			<li>Pixlr - Photo Collages, Effect</li>
+			<li>FiLMiC Pro</li>
+			<li>Musemage</li>
+			<li>Quik - GoPro Video Editor</li>
+			<li>OfficeSuite & PDF editor</li>
+			<li>Coursera: Top online courses</li>
+			<li>Kenya Red Cross (KRCS) App</li>
+			<li>Headspace: Meditation & Sleep</li>
+		</ul>]]>
+		</change>
+	</changes>
+	<changes>
 		<version>1.0.12</version>
 		<change><![CDATA[
 		<span>Adds new icons for:</span>

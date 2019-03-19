@@ -1,5 +1,63 @@
 <changelog>
 	<changes>
+		<version>1.0.14</version>
+		<change><![CDATA[
+		<span>Adds new icons for:</span>
+		<ul>
+			<li>ACT Fibernet</li>
+			<li>ApnHistory</li>
+			<li>Axis Bank Mobile Banking</li>
+			<li>Best VPN Proxy Betternet</li>
+			<li>BookMyShow Entertainment</li>
+			<li>CamScanner-Scanner to scan PDF</li>
+			<li>Dashlane Password Manager</li>
+			<li>Delhi-NCR Metro</li>
+			<li>DigiLocker</li>
+			<li>Domino's Pizza América Latina</li>
+			<li>Domino's Pizza Caribbean</li>
+			<li>Domino's Pizza Netherlands</li>
+			<li>Domino's Pizza South Africa</li>
+			<li>Domino's Pizza USA</li>
+			<li>Domino's Pizza India</li>
+			<li>Facebook Pages Manager</li>
+			<li>Fiverr - Freelance Services</li>
+			<li>Fivestars</li>
+			<li>Flipkart - Online Shopping App</li>
+			<li>foodpanda - Food Delivery (India)</li>
+			<li>foodpanda - Food Delivery</li>
+			<li>Fuel Rewards® program</li>
+			<li>hike 6.0 (StickerChat)</li>
+			<li>Hotstar</li>
+			<li>Locanto Classifieds 2.0</li>
+			<li>Mediabox HD</li>
+			<li>Money Manager : Budget&Expense</li>
+			<li>My Airtel-Recharge, Pay & Bank</li>
+			<li>Myntra - Fashion Shopping App</li>
+			<li>myStudentAid</li>
+			<li>netKillUIbeta (iOS 11)</li>
+			<li>Night Sky</li>
+			<li>Ola Cabs</li>
+			<li>Payoneer</li>
+			<li>Paytm- Payments & Bank Account</li>
+			<li>Rebtel: International Calling</li>
+			<li>Skrill</li>
+			<li>Snapdeal: Online Shopping App</li>
+			<li>Songkick Concerts</li>
+			<li>Swiggy Food Order & Delivery</li>
+			<li>Voice Recorder - HD Audio Recording & Playback</li>
+			<li>Voice Recorder Lite: HD Audio Recording & Playback</li>
+			<li>WhatsApp++ (By Fouad Raheb)</li>
+			<li>WhatsFake - Create Fake Chats</li>
+			<li>WhatsFake Pro Create Fake Chat</li>
+			<li>WiFi Passwords</li>
+			<li>WordPress</li>
+			<li>WWDC</li>
+			<li>Zoho Mail - Email and Calendar</li>
+			<li>Zomato - Food & Restaurants</li>
+		</ul>]]>
+		</change>
+	</changes>
+	<changes>
 		<version>1.0.13</version>
 		<change><![CDATA[
 		<span>Adds new icons for:</span>

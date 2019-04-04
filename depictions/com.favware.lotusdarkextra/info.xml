@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra</name>
-	<version>1.0.16</version>
+	<version>1.0.17</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -140,6 +140,7 @@
 						<li>Hornbach</li>
 						<li>Hotstar</li>
 						<li>HP Smart</li>
+						<li>HSBC UK Mobile Banking</li>
 						<li>Huuuge Casino - Slot Machines</li>
 						<li>HVV</li>
 						<li>Hyatt Hotels</li>
@@ -275,6 +276,7 @@
 						<li>Streaks</li>
 						<li>Streamlabs OBS</li>
 						<li>StudentVUE</li>
+						<li>SUBCARD®</li>
 						<li>Swiggy Food Order & Delivery</li>
 						<li>Taco Bell</li>
 						<li>tado° for Installers</li>
@@ -344,33 +346,9 @@
 		<change><![CDATA[
 		<span>Adds new icons for:</span>
 		<ul>
-			<li>Adobe Acrobat Reader</li>
-			<li>Blizzard Battle.net</li>
-			<li>Burger King: Vouchers and Deals (UK region)</li>
-			<li>Destiny 2 Companion</li>
-			<li>FC Bayern München</li>
-			<li>FutBol24</li>
-			<li>GAME Mobile App</li>
-			<li>HVV</li>
-			<li>Ishtar Commander for Destiny 2</li>
-			<li>Just Eat: food delivery</li>
-			<li>KFC (UK region)</li>
-			<li>Klarna</li>
-			<li>MeinVodafone</li>
-			<li>MiPermit</li>
-			<li>MY EE</li>
-			<li>My McDonald's Freshly Prepared</li>
-			<li>Old School RuneScape</li>
-			<li>SongShift</li>
-			<li>Sony | Headphones Connect</li>
-			<li>SpardaApp</li>
-			<li>SpardaSecureApp</li>
-			<li>SPOX</li>
+			<li>HSBC UK Mobile Banking</li>
+			<li>SUBCARD®</li>
 			<li>The AA</li>
-			<li>TrackR</li>
-			<li>Unsplash</li>
-			<li>Warframe</li>
-			<li>YNAB (You Need A Budget)</li>
 		</ul>]]>
 		</change>
 	</changelog>

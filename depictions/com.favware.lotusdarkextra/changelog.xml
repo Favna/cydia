@@ -1,5 +1,16 @@
 <changelog>
 	<changes>
+		<version>1.0.17</version>
+		<change><![CDATA[
+		<span>Adds new icons for:</span>
+		<ul>
+			<li>HSBC UK Mobile Banking</li>
+			<li>SUBCARD®</li>
+			<li>The AA</li>
+		</ul>]]>
+		</change>
+	</changes>
+	<changes>
 		<version>1.0.16</version>
 		<change><![CDATA[
 		<span>Adds new icons for:</span>
@@ -26,7 +37,6 @@
 			<li>SpardaApp</li>
 			<li>SpardaSecureApp</li>
 			<li>SPOX</li>
-			<li>The AA</li>
 			<li>TrackR</li>
 			<li>Unsplash</li>
 			<li>Warframe</li>

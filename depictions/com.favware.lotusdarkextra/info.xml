@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra</name>
-	<version>1.0.15</version>
+	<version>1.0.16</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -26,6 +26,7 @@
 						<li>Acapella from PicPlayPost</li>
 						<li>ACT Fibernet</li>
 						<li>AdminVUE</li>
+						<li>Adobe Acrobat Reader</li>
 						<li>Adobe Creative Cloud</li>
 						<li>Afterlight 2</li>
 						<li>Agar.io</li>
@@ -51,11 +52,13 @@
 						<li>Black Friday 2018 Ads Shopping</li>
 						<li>BlackBoard</li>
 						<li>Blitzer.de</li>
+						<li>Blizzard Battle.net</li>
 						<li>BookMyShow Entertainment</li>
 						<li>Bose SoundTouch</li>
 						<li>Brawl Stars</li>
 						<li>Bring! Shopping List & Recipes</li>
 						<li>Browser and Documents Manager</li>
+						<li>Burger King: Vouchers and Deals (UK region)</li>
 						<li>BURGER KING® App (Various regional versions)</li>
 						<li>Buy Me a Pie! - Shopping List</li>
 						<li>BytaFont 3</li>
@@ -82,6 +85,7 @@
 						<li>Deezer: Music & Postcast Player</li>
 						<li>Degoo</li>
 						<li>Delhi-NCR Metro</li>
+						<li>Destiny 2 Companion</li>
 						<li>DigiLocker</li>
 						<li>DJI GO 4</li>
 						<li>Domino's Pizza América Latina</li>
@@ -105,6 +109,7 @@
 						<li>F.lux</li>
 						<li>Facebook Pages Manager</li>
 						<li>Fandom</li>
+						<li>FC Bayern München</li>
 						<li>FiLMiC Pro</li>
 						<li>Fiverr - Freelance Services</li>
 						<li>Fivestars</li>
@@ -120,6 +125,8 @@
 						<li>FotMob Live Soccer Scores</li>
 						<li>Fuel Rewards® program</li>
 						<li>Fuel Rewards® program</li>
+						<li>FutBol24</li>
+						<li>GAME Mobile App</li>
 						<li>GeoGebra Graphing Calculator</li>
 						<li>GitHawk for GitHub</li>
 						<li>GoodReader</li>
@@ -134,6 +141,7 @@
 						<li>Hotstar</li>
 						<li>HP Smart</li>
 						<li>Huuuge Casino - Slot Machines</li>
+						<li>HVV</li>
 						<li>Hyatt Hotels</li>
 						<li>IBA MobilBank</li>
 						<li>iCab Mobile (Web Browser)</li>
@@ -142,11 +150,15 @@
 						<li>Ignition app installer</li>
 						<li>Ikea Store</li>
 						<li>iPolyglot</li>
+						<li>Ishtar Commander for Destiny 2</li>
 						<li>iTranslate Translator</li>
 						<li>Jodel - Hyperlocal Community</li>
 						<li>Jumbo (Dutch supermarket)</li>
+						<li>Just Eat: food delivery</li>
 						<li>Kcast Gold Live!+</li>
 						<li>Kenya Red Cross (KRCS) App</li>
+						<li>KFC (UK region)</li>
+						<li>Klarna</li>
 						<li>Knaek App</li>
 						<li>Kodi</li>
 						<li>Kodi</li>
@@ -164,6 +176,7 @@
 						<li>MedGemak</li>
 						<li>Mediabox HD</li>
 						<li>Mediabox HD</li>
+						<li>MeinVodafone</li>
 						<li>Microsoft Remote Dekstop</li>
 						<li>Mijn DSW</li>
 						<li>Mind Mapping - MindMeister</li>
@@ -171,12 +184,15 @@
 						<li>Mindly Plus</li>
 						<li>MindNode 5</li>
 						<li>Mini Golf King</li>
+						<li>MiPermit</li>
 						<li>mobile.de - Automarkt</li>
 						<li>Money Manager : Budget&Expense</li>
 						<li>Money Pro: Personal Finance</li>
 						<li>Musemage</li>
 						<li>Music Memos</li>
 						<li>My Airtel-Recharge, Pay & Bank</li>
+						<li>MY EE</li>
+						<li>My McDonald's Freshly Prepared</li>
 						<li>Myntra - Fashion Shopping App</li>
 						<li>myStudentAid</li>
 						<li>myStudentAid</li>
@@ -198,6 +214,7 @@
 						<li>NXBoot (from mologie)</li>
 						<li>OfficeSuite & PDF editor</li>
 						<li>Ola Cabs</li>
+						<li>Old School RuneScape</li>
 						<li>oneSafe 4 password manager</li>
 						<li>oneSafe Pix 4</li>
 						<li>OneTracker - Package Tracking</li>
@@ -246,9 +263,14 @@
 						<li>Snapdeal: Online Shopping App</li>
 						<li>Songkick Concerts</li>
 						<li>Songkick Concerts</li>
+						<li>SongShift</li>
+						<li>Sony | Headphones Connect</li>
 						<li>SoundHound - Music Discovery</li>
 						<li>SoundHound∞ - Music Discovery</li>
+						<li>SpardaApp</li>
+						<li>SpardaSecureApp</li>
 						<li>Sparkasse - Your mobile branch</li>
+						<li>SPOX</li>
 						<li>Streaks Workout</li>
 						<li>Streaks</li>
 						<li>Streamlabs OBS</li>
@@ -264,6 +286,7 @@
 						<li>TeacherVUE</li>
 						<li>Telegram X</li>
 						<li>TextNow: Call + Text Unlimited</li>
+						<li>The AA</li>
 						<li>Things 3</li>
 						<li>Three (Three UK)</li>
 						<li>TJ Intranet</li>
@@ -272,6 +295,7 @@
 						<li>TotalReader - ePub, DjVu, MOBI, FB2 Reader</li>
 						<li>TotalReader Pro - ePub, DjVu, MOBI, FB2 Reader</li>
 						<li>TP-Link Tether</li>
+						<li>TrackR</li>
 						<li>Trainline: Train and Bus App</li>
 						<li>Truecaller</li>
 						<li>Truyện Voz - vozForums - truyện f17 - truyện f145</li>
@@ -280,12 +304,14 @@
 						<li>Uber Azerbaijan</li>
 						<li>Unc0ver</li>
 						<li>Underworld Empire</li>
+						<li>Unsplash</li>
 						<li>Virgin TV Go</li>
 						<li>VK Music</li>
 						<li>Voice Recorder - HD Audio Recording & Playback</li>
 						<li>Voice Recorder Lite: HD Audio Recording & Playback</li>
 						<li>vozForum</li>
 						<li>vozForums</li>
+						<li>Warframe</li>
 						<li>Watch TBS</li>
 						<li>WebMoney Keeper</li>
 						<li>WeChat</li>
@@ -301,6 +327,7 @@
 						<li>WWDC</li>
 						<li>Wynn Slots - Vegas Casino Slot</li>
 						<li>XE Currency Converter Pro</li>
+						<li>YNAB (You Need A Budget)</li>
 						<li>Yunisov TV (тв онлайн)</li>
 						<li>Zalo</li>
 						<li>Zoho Mail - Email and Calendar</li>
@@ -317,9 +344,33 @@
 		<change><![CDATA[
 		<span>Adds new icons for:</span>
 		<ul>
-			<li>Shortcuts App (alternative icon)</li>
-			<li>Adobe Creative Cloud</li>
-			<li>GitHawk for GitHub</li>
+			<li>Adobe Acrobat Reader</li>
+			<li>Blizzard Battle.net</li>
+			<li>Burger King: Vouchers and Deals (UK region)</li>
+			<li>Destiny 2 Companion</li>
+			<li>FC Bayern München</li>
+			<li>FutBol24</li>
+			<li>GAME Mobile App</li>
+			<li>HVV</li>
+			<li>Ishtar Commander for Destiny 2</li>
+			<li>Just Eat: food delivery</li>
+			<li>KFC (UK region)</li>
+			<li>Klarna</li>
+			<li>MeinVodafone</li>
+			<li>MiPermit</li>
+			<li>MY EE</li>
+			<li>My McDonald's Freshly Prepared</li>
+			<li>Old School RuneScape</li>
+			<li>SongShift</li>
+			<li>Sony | Headphones Connect</li>
+			<li>SpardaApp</li>
+			<li>SpardaSecureApp</li>
+			<li>SPOX</li>
+			<li>The AA</li>
+			<li>TrackR</li>
+			<li>Unsplash</li>
+			<li>Warframe</li>
+			<li>YNAB (You Need A Budget)</li>
 		</ul>]]>
 		</change>
 	</changelog>

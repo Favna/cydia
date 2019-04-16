@@ -159,6 +159,22 @@ Depiction: https://favna.github.io/cydia/depictions/?p=com.favware.lotusdarkextr
 Name: Lotus Dark Extra
 
 Package: com.favware.lotusdarkextra
+Version: 1.0.18
+Architecture: iphoneos-arm
+Maintainer: Favna <support@favna.xyz>
+Depends: firmware (>=7.0), mobilesubstrate
+Filename: ./debs/com.favware.lotusdarkextra_1.0.18.deb
+Size: 5453232
+MD5sum: 7c5f215621d29f3fa0a9b8b5fa6ae86c
+SHA1: 85a722791c47a38ed134a3268cf47ee7c40e2de1
+SHA256: 01d549945043341f26918457540f2f84d9dd7bc1126bb17ba28e1aa33582e272
+Section: Themes
+Description: Extra Lotus Dark Icons
+Author: Favna <support@favna.xyz>
+Depiction: https://favna.github.io/cydia/depictions/?p=com.favware.lotusdarkextra
+Name: Lotus Dark Extra
+
+Package: com.favware.lotusdarkextra
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Favna <support@favna.xyz>

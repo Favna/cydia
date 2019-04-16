@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra</name>
-	<version>1.0.17</version>
+	<version>1.0.18</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -222,6 +222,7 @@
 						<li>onX Hunt: #1 GPS Hunting Map</li>
 						<li>ParentVUE</li>
 						<li>Park Cinema</li>
+						<li>Pathé All Stars</li>
 						<li>Payoneer</li>
 						<li>Paytm- Payments & Bank Account</li>
 						<li>PDF Reader Pro Edition®</li>
@@ -344,11 +345,9 @@
 	</descriptionlist>
 	<changelog>
 		<change><![CDATA[
-		<span>Adds new icons for:</span>
+		<span>Adds new icon for:</span>
 		<ul>
-			<li>HSBC UK Mobile Banking</li>
-			<li>SUBCARD®</li>
-			<li>The AA</li>
+			<li>Pathé All Stars</li>
 		</ul>]]>
 		</change>
 	</changelog>

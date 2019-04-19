@@ -1,5 +1,26 @@
 <changelog>
 	<changes>
+		<version>1.0.19</version>
+		<change><![CDATA[
+		<span>Adds new icon for:</span>
+		<ul>
+			<li>Duet Display</li>
+			<li>Sky Sports</li>
+			<li>Provenance Emulator</li>
+			<li>The Elder Scrolls: Blades</li>
+			<li>Doodle jump</li>
+			<li>FEZ Pocket Edition</li>
+			<li>Evoland</li>
+			<li>Evoland 2</li>
+			<li>Football Manager Mobile 2018</li>
+			<li>Football Manager Mobile 2019</li>
+			<li>Flow Free</li>
+			<li>lichess • Online Chess</li>
+			<li>Yeelight</li>
+		</ul>]]>
+		</change>
+	</changes>
+	<changes>
 		<version>1.0.18</version>
 		<change><![CDATA[
 		<span>Adds new icon for:</span>

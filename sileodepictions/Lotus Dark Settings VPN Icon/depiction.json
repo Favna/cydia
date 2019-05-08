@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://github.com/mac-user669/cydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png",
+	"headerImage": "https://github.com/Favna/cydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png",
 	"tintColor": "#0d59db",
 	"tabs": [
 		{
@@ -12,8 +12,8 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Showcase",
-							"url": "https://github.com/mac-user669/cydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png",
-							"fullSizeURL": "https://github.com/mac-user669/cydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png"
+							"url": "https://github.com/Favna/cydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png",
+							"fullSizeURL": "https://github.com/Favna/cydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png"
 						}
 					],
 					"ipad": {
@@ -22,8 +22,8 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Showcase",
-								"url": "https://github.com/mac-user669/cydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png",
-								"fullSizeURL": "https://github.com/mac-user669/cydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png"
+								"url": "https://github.com/Favna/cydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png",
+								"fullSizeURL": "https://github.com/Favna/cydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png"
 							}
 						],
 						"class": "DepictionScreenshotView"

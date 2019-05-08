@@ -11,7 +11,7 @@
        "hideShadow":false
       },
       {
-        "url":"https://github.com/Favna/cydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png",
+        "url":"https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png",
         "title":"Lotus Dark Settings VPN Icon",
         "package":"com.favware.lotusdarksettingsvpnicon",
         "hideShadow":false

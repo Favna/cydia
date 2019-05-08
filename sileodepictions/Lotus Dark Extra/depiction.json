@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/Favna/cydia/master/assets/LimelightBlack.png",
+	"headerImage": "https://raw.githubusercontent.com/mac-user669/cydia/master/assets/sileobanners/LotusDarkExtra.png",
 	"tintColor": "#3a75b7",
 	"tabs": [
 		{
@@ -12,8 +12,8 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Showcase",
-							"url": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightBlack.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightBlack.png"
+							"url": "https://raw.githubusercontent.com/mac-user669/cydia/master/assets/sileobanners/LotusDarkExtra.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/cydia/master/assets/sileobanners/LotusDarkExtra.png"
 						}
 					],
 					"ipad": {
@@ -22,8 +22,8 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Showcase",
-								"url": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightBlack.png",
-								"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightBlack.png"
+								"url": "https://raw.githubusercontent.com/mac-user669/cydia/master/assets/sileobanners/LotusDarkExtra.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/mac-user669/cydia/master/assets/sileobanners/LotusDarkExtra.png"
 							}
 						],
 						"class": "DepictionScreenshotView"

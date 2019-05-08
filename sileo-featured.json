@@ -1,0 +1,20 @@
+{
+  "class":"FeaturedBannersView",
+  "itemSize":"{263, 148}",
+  "itemCornerRadius":10,
+  "banners":
+   [
+     {
+       "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightRed.png",
+       "title":"Lotus Dark Extra",
+       "package":"com.favware.lotusdarkextra",
+       "hideShadow":false
+      },
+      {
+        "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/BokehSpace.png",
+        "title":"Lotus Dark Settings VPN Icon",
+        "package":"com.favware.lotusdarksettingsvpnicon",
+        "hideShadow":false
+      }
+    ]
+}

@@ -325,9 +325,9 @@ Maintainer: Favna <support@favna.xyz>
 Depends: firmware (>=7.0), mobilesubstrate
 Filename: ./debs/com.favware.lotusdarkextra_1.1.0.deb
 Size: 5779644
-MD5sum: 200fa148dc5ffe0ba15b363e2e710558
-SHA1: 8a25d77f68de3ecf7866f1b6c76049c5854cc860
-SHA256: 0b3629f4337b092af06012831cc3ac647003f42550e83229af8612347288eb59
+MD5sum: 1865c7d42e154b7de24f661d234cec3b
+SHA1: 85b6261680d8fd28d1531668ebdb82a1828a0d7c
+SHA256: 87b4534fb00184364ba600ee5a796bf2359db76d5f0a32f23835f413b7f090cd
 Section: Themes
 Description: Extra Lotus Dark Icons
 Author: Favna <support@favna.xyz>
@@ -342,9 +342,9 @@ Maintainer: Favna <support@favna.xyz>
 Depends: firmware (>=7.0), mobilesubstrate
 Filename: ./debs/com.favware.lotusdarksettingsvpnicon_1.0.0.deb
 Size: 10656
-MD5sum: 8eb1667586f8fe1f4e5e61d870275d68
-SHA1: 13aae7dbc7112ef7292f172880596b60dcc1581e
-SHA256: b59d5d73c05e1e7f02c2f43aeb4d9abe4b68ebdbf7bd7afaad3ab6eb59db3054
+MD5sum: d729416a4de085be3b882a2c9b413c0b
+SHA1: f76ae0eea66fae528a0bf3918fb38674541d58c3
+SHA256: 93f6d54ff2875f9cbfba3e66a368661fe38f0dd31f6ee58e8cd4cea268c1726c
 Section: Themes
 Description: VPN Icon for Preferences app for Lotus Dark
 Author: Favna <support@favna.xyz>

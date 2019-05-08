@@ -47,6 +47,11 @@
 					"class": "DepictionTableTextView"
 				},
 				{
+					"title": "Released",
+					"text": "May 4th 2019",
+					"class": "DepictionTableTextView"
+				},
+				{
 					"title": "Price",
 					"text": "Free",
 					"class": "DepictionTableTextView"
@@ -62,6 +67,16 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
+					"title": "Twitter",
+					"action": "https://twitter.com/favna_",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Discord Server",
+					"action": "https://favna.xyz/redirect/server",
+					"class": "DepictionTableButtonView"
+				},
+				{
 					"spacing": 16,
 					"class": "DepictionSpacerView"
 				},
@@ -74,6 +89,7 @@
 		},
 		{
 			"tabname": "Changelog",
+			"class": "DepictionStackView",
 			"views": [
 				{
 					"title": "1.0.0",
@@ -82,12 +98,16 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Initial Release!",
-					"useSpacing": false,
+					"class": "DepictionMarkdownView",
+					"markdown": "Initial Release",
+					"useSpacing": true
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released February 15th 2019</small>",
+					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
-			],
-			"class": "DepictionStackView"
+			]
 		}
 	],
 	"class": "DepictionTabView"

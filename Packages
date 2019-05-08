@@ -325,9 +325,9 @@ Maintainer: Favna <support@favna.xyz>
 Depends: firmware (>=7.0), mobilesubstrate
 Filename: ./debs/com.favware.lotusdarkextra_1.1.0.deb
 Size: 5779644
-MD5sum: 1865c7d42e154b7de24f661d234cec3b
-SHA1: 85b6261680d8fd28d1531668ebdb82a1828a0d7c
-SHA256: 87b4534fb00184364ba600ee5a796bf2359db76d5f0a32f23835f413b7f090cd
+MD5sum: 1d8cd634701f1e7925bc16636830e5ae
+SHA1: 338494f005f1b4e944b0ce8a205a09805ada78dd
+SHA256: b163b2a17daa1b92cc9dda9bf67a10450f4c470ec051b66f3e77eaac36cabdad
 Section: Themes
 Description: Extra Lotus Dark Icons
 Author: Favna <support@favna.xyz>

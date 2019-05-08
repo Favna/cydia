@@ -64,7 +64,7 @@
 				},
 				{
 					"title": "Developer",
-					"text": "Jeroen \"Favna\" Claassens",
+					"text": "Favna",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -105,7 +105,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "*Add new icons for*:\n*Chimera\n*Sileo\n*SnapBack\n*Eventbrite",
+					"markdown": "**Add new icons for**:\n - Chimera \n - Sileo \n - SnapBack \n - Eventbrite",
 					"useSpacing": true
 				},
 				{

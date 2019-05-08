@@ -37,7 +37,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "### Includes Over 300 Custom Icons",
+					"markdown": "### Includes Over 300 Custom Icons\nCheck the \"Supported Icons\" tab for the full list",
 					"useSpacing": true
 				},
 				{

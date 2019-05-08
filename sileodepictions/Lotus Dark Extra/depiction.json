@@ -1,0 +1,98 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/LotusDarkExtra.png",
+	"tintColor": "#3a75b7",
+	"tabs": [
+		{
+			"tabname": "Description",
+			"views": [
+				{
+					"itemCornerRadius": 6,
+					"itemSize": "{320, 275.41333333333336}",
+					"screenshots": [
+						{
+							"accessibilityText": "Showcase",
+							"url": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/LotusDarkExtra.png",
+							"fullSizeURL": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/LotusDarkExtra.png"
+						}
+					],
+					"ipad": {
+						"itemCornerRadius": 9,
+						"itemSize": "{320, 550.8266666666667}",
+						"screenshots": [
+							{
+								"accessibilityText": "Showcase",
+								"url": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/LotusDarkExtra.png",
+								"fullSizeURL": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/LotusDarkExtra.png"
+							}
+						],
+						"class": "DepictionScreenshotView"
+					},
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "##Extra Lotus Dark Icons\nLotus Dark has stopped receiving updates and I created many extra icons for it. I decided to make the icons publicaly available through this package. While you can totally install this without buying Lotus Dark it really won't work all that well so I recommend you also buy Lotus Dark from the Packix repository."
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "##Includes Over 300 Custom Icons"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Latest Version",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.1.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "Favware",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Github",
+					"action": "https://github.com/Favware",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Adds new icons for: Chimera, Sileo, SnapBack, and Eventbrite.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

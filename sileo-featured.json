@@ -5,13 +5,13 @@
   "banners":
    [
      {
-       "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/LimelightRed.png",
+       "url":"https://raw.githubusercontent.com/mac-user669/cydia/master/assets/sileobanners/LotusDarkExtra.png",
        "title":"Lotus Dark Extra",
        "package":"com.favware.lotusdarkextra",
        "hideShadow":false
       },
       {
-        "url":"https://raw.githubusercontent.com/mac-user669/repo/master/Images/BokehSpace.png",
+        "url":"https://github.com/mac-user669/cydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png",
         "title":"Lotus Dark Settings VPN Icon",
         "package":"com.favware.lotusdarksettingsvpnicon",
         "hideShadow":false

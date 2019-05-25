@@ -1,5 +1,27 @@
 <changelog>
 	<changes>
+		<version>1.1.1</version>
+		<change><![CDATA[
+		<span>Adds new icon for:</span>
+		<ul>
+			<li>Flipboard</li>
+			<li>Jabra Sound+</li>
+			<li>Notebook</li>
+			<li>Jaybird MySound</li>
+			<li>Life360</li>
+			<li>Wear OS</li>
+			<li>PS Communities</li>
+			<li>Flixster</li>
+			<li>MovieBoxPro</li>
+			<li>Popcorn Time</li>
+			<li>Offline Files & Web Browser By Alexander Bon</li>
+			<li>ABN AMRO Grip</li>
+			<li>CGI MyIT</li>
+			<li>Berichtenbox (MijnOverheid)</li>
+		</ul>]]>
+		</change>
+	</changes>
+	<changes>
 		<version>1.1.0</version>
 		<change><![CDATA[
 		<span>Adds new icon for:</span>

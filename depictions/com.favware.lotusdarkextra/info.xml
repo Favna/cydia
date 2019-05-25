@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra</name>
-	<version>1.1.0</version>
+	<version>1.1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -23,6 +23,7 @@
 						<li>2Do - Todo List, Tasks & Notes</li>
 						<li>5-0 Radio Police Scanner</li>
 						<li>5-0 Radio Pro Police Scanner</li>
+						<li>ABN AMRO Grip</li>
 						<li>Acapella from PicPlayPost</li>
 						<li>ACT Fibernet</li>
 						<li>AdminVUE</li>
@@ -46,6 +47,7 @@
 						<li>Axis Bank Mobile Banking</li>
 						<li>Babyphone 3g - baby monitor</li>
 						<li>BanG Dream! Girls Band Party!</li>
+						<li>Berichtenbox (MijnOverheid)</li>
 						<li>Best Buy</li>
 						<li>Best VPN Proxy Betternet</li>
 						<li>Bird - Enjoy The Ride</li>
@@ -66,6 +68,7 @@
 						<li>CallLogPro (iOS 11/10/9/8)</li>
 						<li>CamScanner-Scanner to scan PDF</li>
 						<li>Capo touch</li>
+						<li>CGI MyIT</li>
 						<li>Chimera</li>
 						<li>CinemaPlus</li>
 						<li>CityGuide GPS-navigator</li>
@@ -118,7 +121,9 @@
 						<li>Fivestars</li>
 						<li>Flic App</li>
 						<li>Flightradar24 | Flight Tracker</li>
+						<li>Flipboard</li>
 						<li>Flipkart - Online Shopping App</li>
+						<li>Flixster</li>
 						<li>Flow Free</li>
 						<li>Followers Plus + for Instagram</li>
 						<li>Followers Pro + for Instagram</li>
@@ -158,6 +163,8 @@
 						<li>iPolyglot</li>
 						<li>Ishtar Commander for Destiny 2</li>
 						<li>iTranslate Translator</li>
+						<li>Jabra Sound+</li>
+						<li>Jaybird MySound</li>
 						<li>Jodel - Hyperlocal Community</li>
 						<li>Jumbo (Dutch supermarket)</li>
 						<li>Just Eat: food delivery</li>
@@ -172,6 +179,7 @@
 						<li>letgo: Buy & Sell Used Stuff</li>
 						<li>LG TV Plus</li>
 						<li>lichess • Online Chess</li>
+						<li>Life360</li>
 						<li>Lime - Your Ride Anytime</li>
 						<li>Lingvo Dictionary Offline</li>
 						<li>Locanto Classifieds 2.0</li>
@@ -194,6 +202,7 @@
 						<li>mobile.de - Automarkt</li>
 						<li>Money Manager : Budget&Expense</li>
 						<li>Money Pro: Personal Finance</li>
+						<li>MovieBoxPro</li>
 						<li>Musemage</li>
 						<li>Music Memos</li>
 						<li>My Airtel-Recharge, Pay & Bank</li>
@@ -214,8 +223,10 @@
 						<li>Night Sky</li>
 						<li>Nighthawk (from NETGEAR)</li>
 						<li>NordVPN: VPN Fast & Unlimited</li>
+						<li>Notebook</li>
 						<li>NXBoot (from mologie)</li>
 						<li>OfficeSuite & PDF editor</li>
+						<li>Offline Files & Web Browser By Alexander Bon</li>
 						<li>Ola Cabs</li>
 						<li>Old School RuneScape</li>
 						<li>oneSafe 4 password manager</li>
@@ -241,11 +252,13 @@
 						<li>Pleco</li>
 						<li>Pokémon TV</li>
 						<li>POP! Slots - Casino Slot Games</li>
+						<li>Popcorn Time</li>
 						<li>Practice+ Tuner & Metronome</li>
 						<li>Priority Pass™</li>
 						<li>Prisma Photo Editor</li>
 						<li>Provenance Emulator</li>
 						<li>Provenance</li>
+						<li>PS Communities</li>
 						<li>Pythonista 3</li>
 						<li>Quik - GoPro Video Editor</li>
 						<li>Random.org</li>
@@ -322,6 +335,7 @@
 						<li>vozForums</li>
 						<li>Warframe</li>
 						<li>Watch TBS</li>
+						<li>Wear OS</li>
 						<li>WebMoney Keeper</li>
 						<li>WeChat</li>
 						<li>Wehkamp</li>
@@ -353,10 +367,20 @@
 		<change><![CDATA[
 		<span>Adds new icons for:</span>
 		<ul>
-			<li>Chimera</li>
-			<li>Sileo</li>
-			<li>SnapBack</li>
-			<li>Eventbrite</li>
+			<li>Flipboard</li>
+			<li>Jabra Sound+</li>
+			<li>Notebook</li>
+			<li>Jaybird MySound</li>
+			<li>Life360</li>
+			<li>Wear OS</li>
+			<li>PS Communities</li>
+			<li>Flixster</li>
+			<li>MovieBoxPro</li>
+			<li>Popcorn Time</li>
+			<li>Offline Files & Web Browser By Alexander Bon</li>
+			<li>ABN AMRO Grip</li>
+			<li>CGI MyIT</li>
+			<li>Berichtenbox (MijnOverheid)</li>
 		</ul>]]>
 		</change>
 	</changelog>

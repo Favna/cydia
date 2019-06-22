@@ -49,12 +49,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.1.1",
+					"text": "1.1.2",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "May 25th 2019",
+					"text": "June 22nd 2019",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -69,7 +69,7 @@
 				},
 				{
 					"title": "Github",
-					"action": "https://github.com/favna",
+					"action": "https://github.com/favna/cydia/",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -97,6 +97,25 @@
 			"tabname": "Changelog",
 			"class": "DepictionStackView",
 			"views": [
+				{
+					"title": "1.1.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "**Add new icons for**:\n - Snowboard Application",
+					"useSpacing": true
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released June 22nd 2019</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
 				{
 					"title": "1.1.1",
 					"useBoldText": true,
@@ -139,14 +158,14 @@
 			"class": "DepictionStackView",
 			"views": [
 				{
-					"title": "Cydia / Sileo",
+					"title": "Cydia / Sileo / Zebra / etc.",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "- BytaFont 3\n - CallLogPro (iOS 11/10/9/8)\n - Chimera\n - Cr4shed\n - F.lux\n - Ignition app installer\n - netKillUIbeta (iOS 11)\n - NFCWriterX (from Limneos)\n - NXBoot (from mologie)\n - Provenance Emulator\n - Provenance\n - ReProvision (from Matchstic)\n - Rollectra\n - Screenshotapp (from Junesiphone)\n - SemiRestore 11\n - Sileo\n - Twitter++ (from Ignition)\n - Unc0ver\n - WhatsApp++ (By Fouad Raheb)\n - WiFi Passwords",
+					"markdown": "- BytaFont 3\n - CallLogPro (iOS 11/10/9/8)\n - Chimera\n - Cr4shed\n - F.lux\n - Ignition app installer\n - netKillUIbeta (iOS 11)\n - NFCWriterX (from Limneos)\n - NXBoot (from mologie)\n - Provenance Emulator\n - Provenance\n - ReProvision (from Matchstic)\n - Rollectra\n - Screenshotapp (from Junesiphone)\n - SemiRestore 11\n - Sileo\n - Snowboard Application\n - Twitter++ (from Ignition)\n - Unc0ver\n - WhatsApp++ (By Fouad Raheb)\n - WiFi Passwords",
 					"useSpacing": true
 				},
 				{

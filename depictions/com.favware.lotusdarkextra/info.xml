@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra</name>
-	<version>1.1.1</version>
+	<version>1.1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -282,6 +282,7 @@
 						<li>Sleep Watch by Bodymatter</li>
 						<li>SnapBack</li>
 						<li>Snapdeal: Online Shopping App</li>
+						<li>Snowboard Application</li>
 						<li>Songkick Concerts</li>
 						<li>SongShift</li>
 						<li>Sony | Headphones Connect</li>
@@ -365,22 +366,9 @@
 	</descriptionlist>
 	<changelog>
 		<change><![CDATA[
-		<span>Adds new icons for:</span>
+		<span>Adds new icon for:</span>
 		<ul>
-			<li>Flipboard</li>
-			<li>Jabra Sound+</li>
-			<li>Notebook</li>
-			<li>Jaybird MySound</li>
-			<li>Life360</li>
-			<li>Wear OS</li>
-			<li>PS Communities</li>
-			<li>Flixster</li>
-			<li>MovieBoxPro</li>
-			<li>Popcorn Time</li>
-			<li>Offline Files & Web Browser By Alexander Bon</li>
-			<li>ABN AMRO Grip</li>
-			<li>CGI MyIT</li>
-			<li>Berichtenbox (MijnOverheid)</li>
+			<li>Snowboard Application</li>
 		</ul>]]>
 		</change>
 	</changelog>

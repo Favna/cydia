@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra</name>
-	<version>1.1.2</version>
+	<version>1.1.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -141,6 +141,7 @@
 						<li>GitHawk for GitHub</li>
 						<li>GoodReader</li>
 						<li>Habitica: Gamified Taskmanager</li>
+						<li>Harry Potter: Wizards Unite</li>
 						<li>Headspace: Meditation & Sleep</li>
 						<li>HealthFace</li>
 						<li>Hesab.az</li>
@@ -354,6 +355,7 @@
 						<li>YNAB (You Need A Budget)</li>
 						<li>Yunisov TV (тв онлайн)</li>
 						<li>Zalo</li>
+						<li>Zebra</li>
 						<li>Zoho Mail - Email and Calendar</li>
 						<li>Zomato - Food & Restaurants</li>
 						<li>ZOOM Cloud Meetings</li>
@@ -368,7 +370,8 @@
 		<change><![CDATA[
 		<span>Adds new icon for:</span>
 		<ul>
-			<li>Snowboard Application</li>
+			<li>Harry Potter: Wizards Unite</li>
+			<li>Zebra</li>
 		</ul>]]>
 		</change>
 	</changelog>

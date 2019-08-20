@@ -161,6 +161,7 @@
 						<li>iFont: find, install any font!</li>
 						<li>Ignition app installer</li>
 						<li>Ikea Store</li>
+						<li>IKEA</li>
 						<li>iPolyglot</li>
 						<li>Ishtar Commander for Destiny 2</li>
 						<li>iTranslate Translator</li>
@@ -173,6 +174,7 @@
 						<li>Kenya Red Cross (KRCS) App</li>
 						<li>KFC (UK region)</li>
 						<li>Klarna</li>
+						<li>KLM Royal Airlines</li>
 						<li>Knaek App</li>
 						<li>Kodi</li>
 						<li>Kodi</li>
@@ -370,8 +372,8 @@
 		<change><![CDATA[
 		<span>Adds new icon for:</span>
 		<ul>
-			<li>Harry Potter: Wizards Unite</li>
-			<li>Zebra</li>
+			<li>IKEA</li>
+			<li>KLM Royal Airlines</li>
 		</ul>]]>
 		</change>
 	</changelog>

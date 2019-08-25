@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra</name>
-	<version>1.1.5</version>
+	<version>1.1.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -34,6 +34,7 @@
             <li>ALL-IN-ONE PACKAGE TRACKING (YQTRACK)</li>
             <li>Allegiant</li>
             <li>AllTrails: Hike, Run & Cycle</li>
+            <li>American Airlines</li>
             <li>ampm Scratch Power</li>
             <li>Anchor Pointer Compass GPS</li>
             <li>Animal Crossing: Pocket Camp</li>
@@ -306,7 +307,7 @@
             <li>Sony | Headphones Connect</li>
             <li>SoundHound - Music Discovery</li>
             <li>SoundHound∞ - Music Discovery</li>
-            <li>Southwest American Airlines</li>
+            <li>Southwest</li>
             <li>SpardaApp</li>
             <li>SpardaSecureApp</li>
             <li>Sparkasse - Your mobile branch</li>
@@ -392,31 +393,7 @@
 		<change><![CDATA[
 		<span>Adds new icon for:</span>
 		<ul>
-      <li>Allegiant</li>
-      <li>App Cake</li>
-      <li>Apple TV</li>
-      <li>Apple Watch</li>
-      <li>Circle Pay</li>
-      <li>Coinbase Wallet</li>
-      <li>Concur</li>
-      <li>Delta</li>
-      <li>ESPN</li>
-      <li>Fidelity Netbenefits</li>
-      <li>Fidelity</li>
-      <li>Flowdock</li>
-      <li>Gitter IM</li>
-      <li>Glassdoor</li>
-      <li>Health4Me</li>
-      <li>iCleaner Pro</li>
-      <li>MarketBeat</li>
-      <li>Progressive</li>
-      <li>RSA SecurID Software Token</li>
-      <li>Seeking Alpha Portfolio</li>
-      <li>Sling</li>
-      <li>Southwest American Airlines</li>
-      <li>Stocktwits</li>
-      <li>US Bank</li>
-      <li>Zillow</li>
+      <li>American Airlines</li>
 		</ul>]]>
 		</change>
 	</changelog>

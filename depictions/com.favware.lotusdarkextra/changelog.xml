@@ -1,5 +1,38 @@
 <changelog>
 	<changes>
+		<version>1.1.5</version>
+		<change><![CDATA[
+		<span>Adds new icon for:</span>
+		<ul>
+      <li>Allegiant</li>
+      <li>App Cake</li>
+      <li>Apple TV</li>
+      <li>Apple Watch</li>
+      <li>Circle Pay</li>
+      <li>Coinbase Wallet</li>
+      <li>Concur</li>
+      <li>Delta</li>
+      <li>ESPN</li>
+      <li>Fidelity Netbenefits</li>
+      <li>Fidelity</li>
+      <li>Flowdock</li>
+      <li>Gitter IM</li>
+      <li>Glassdoor</li>
+      <li>Health4Me</li>
+      <li>iCleaner Pro</li>
+      <li>MarketBeat</li>
+      <li>Progressive</li>
+      <li>RSA SecurID Software Token</li>
+      <li>Seeking Alpha Portfolio</li>
+      <li>Sling</li>
+      <li>Southwest American Airlines</li>
+      <li>Stocktwits</li>
+      <li>US Bank</li>
+      <li>Zillow</li>
+		</ul>]]>
+		</change>
+	</changes>
+	<changes>
 		<version>1.1.4</version>
 		<change><![CDATA[
 		<span>Adds new icon for:</span>

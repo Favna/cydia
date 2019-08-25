@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.6](https://github.com/Favna/cydia/compare/v1.1.5...v1.1.6) (2019-08-25)
+
+
+### Features
+
+* **lotus-dark-extra:** add icon for american airlines ([0561583](https://github.com/Favna/cydia/commit/0561583))
+
 ## 1.1.5 (2019-08-25)
 
 

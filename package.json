@@ -1,6 +1,6 @@
 {
   "name": "cydiarepo",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "Cydia repo for Favware",
   "main": "dist/index.js",
   "repository": "git@github.com:Favna/cydia.git",

@@ -1,16 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
-html, body {
-    font-family: 'Roboto', sans-serif !important;
-    background-color: #222222 !important;
-    height: 100% !important;
-    height: 100vh !important;
+html,
+body {
+  font-family: 'Roboto', sans-serif !important;
+  background-color: #222222 !important;
+  height: 100% !important;
+  height: 100vh !important;
 }
 
 .card {
-    margin-bottom: 5vh;
+  margin-bottom: 5vh;
 }
 
 .depiction-text-padding {
-    padding-bottom: 5%;
+  padding-bottom: 5%;
 }

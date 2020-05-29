@@ -1,10 +1,9 @@
 {
   "name": "cydiarepo",
   "version": "1.1.6",
-  "description": "Cydia repo for Favware",
-  "main": "dist/index.js",
-  "repository": "git@github.com:Favna/cydia.git",
-  "author": "Jeroen Claassens <j.claassens@cgi.com>",
+  "description": "Cydia repo for Favna",
+  "repository": "git@github.com:favna/cydia.git",
+  "author": "Jeroen Claassens <support@favware.tech>",
   "license": "MIT",
   "private": true,
   "scripts": {
@@ -13,28 +12,15 @@
     "up": "yarn upgrade-interactive"
   },
   "devDependencies": {
-    "@babel/core": "^7.5.5",
-    "@babel/node": "^7.5.5",
-    "@babel/preset-env": "^7.5.5",
-    "@babel/preset-typescript": "^7.3.3",
-    "@babel/register": "^7.5.5",
-    "@commitlint/cli": "^8.1.0",
-    "@commitlint/config-conventional": "^8.1.0",
-    "@favware/querystring": "^3.0.1",
-    "@types/common-tags": "^1.8.0",
-    "@types/node": "^12.7.2",
-    "chalk": "^2.4.2",
-    "common-tags": "^1.8.0",
-    "cz-conventional-changelog": "3.0.2",
-    "eslint": "^6.2.1",
-    "husky": "^3.0.4",
-    "jest": "^24.9.0",
-    "lint-staged": "^9.2.3",
-    "rimraf": "^3.0.0",
-    "standard-version": "^7.0.0",
-    "ts-node": "^8.3.0",
-    "tslint": "^5.18.0",
-    "typescript": "^3.5.3"
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "@favware/ts-config": "^2.0.0",
+    "@types/node": "^14.0.5",
+    "cz-conventional-changelog": "3.2.0",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.7",
+    "standard-version": "^8.0.0",
+    "typescript": "^3.9.3"
   },
   "husky": {
     "hooks": {

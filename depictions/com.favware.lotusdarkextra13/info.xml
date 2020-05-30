@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra 13</name>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -19,6 +19,7 @@
 				<div class="card card-body">
 					<ul>
                   <li>Citrix Workspace</li>
+                  <li>GitHub</li>
                   <li>Greenchoice</li>
                   <li>Installer</li>
                   <li>Keybase</li>
@@ -41,7 +42,7 @@
 		<change><![CDATA[
 		<span>Adds new icon for:</span>
 		<ul>
-      <li>New York Pizza (Dutch variant)</li>
+      <li>GitHub</li>
 		</ul>]]>
 		</change>
 	</changelog>

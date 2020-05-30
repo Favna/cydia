@@ -1,5 +1,14 @@
 <changelog>
 	<changes>
+		<version>1.0.2</version>
+		<change><![CDATA[
+		<span>Adds new icon for:</span>
+		<ul>
+      <li>GitHub</li>
+		</ul>]]>
+		</change>
+	</changes>
+	<changes>
 		<version>1.0.1</version>
 		<change><![CDATA[
 		<span>Adds new icon for:</span>

@@ -444,10 +444,10 @@ Architecture: iphoneos-arm
 Maintainer: Favna <support@favware.tech>
 Depends: firmware (>=7.0), mobilesubstrate
 Filename: ./debs/com.favware.lotusdarkextra13_1.0.0.deb
-Size: 371504
-MD5sum: a457013625449cf190c366620caa4e5d
-SHA1: adfad8512f2efd256345181f834e4d38783ad819
-SHA256: ac05647a8dcb4ddfcaf632a830349ccf7acff435842ff6cd5a64cbd24c5d9ba7
+Size: 371512
+MD5sum: 409ed8f29d13de10b2f497919cb10f20
+SHA1: 717c7a5c0f5509421c93ad5204efdf387811074c
+SHA256: d9e39fccc407b33032a399cb07a06b4ffea758ec7d7e0491919882c0db217ad0
 Section: Themes
 Description: Even more icons for Lotus Dark
 Author: Favna <support@favware.tech>

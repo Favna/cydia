@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/favna/cydia/compare/v1.2.1...v1.3.0) (2020-05-30)
+
+
+### Features
+
+* **lde13:** add icon for github ([225d5da](https://github.com/favna/cydia/commit/225d5da976aa637a095935ddcabbd569c67fc04f))
+
+
+### Bug Fixes
+
+* fixed lotus dark extra 13 icons ([b86db8b](https://github.com/favna/cydia/commit/b86db8b1287242b69008e13731750899bffcca95))
+
 ### [1.2.1](https://github.com/favna/cydia/compare/v1.2.0...v1.2.1) (2020-05-30)
 
 

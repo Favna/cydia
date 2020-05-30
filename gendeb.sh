@@ -1,42 +1,97 @@
-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
+#!/usr/bin/env bash
+
+# Locally overwrite pushd to not output to stout
+pushd() {
+    command pushd "$@" >/dev/null
+}
+
+# Locally overwrite popd to not output to stout
+popd() {
+    command popd "$@" >/dev/null
+}
+
+run() {
+    # Set constants
+    REPO_DIR="$(pwd)"
+    SOURCE_DIR=$REPO_DIR/source
+    NEW_VERSION=$2
+
+    # Move into the source directory
+    pushd $SOURCE_DIR
+
+    # Determine for which package a deb should be created
+    if [[ "$1" == "extra" ]]; then
+
+        # Build the deb
+        dpkg -b com.favware.lotusdarkextra
+
+        # Move the deb to the repo/debs folder
+        mv com.favware.lotusdarkextra.deb ../debs/com.favware.lotusdarkextra_$NEW_VERSION.deb
+
+    # Determine for which package a deb should be created
+    elif [[ "$1" == "extra13" ]]; then
+
+        # Build the deb
+        dpkg -b com.favware.lotusdarkextra13
+
+        # Move the deb to the repo/debs folder
+        mv com.favware.lotusdarkextra13.deb ../debs/com.favware.lotusdarkextra13_$NEW_VERSION.deb
+
+    elif [[ "$1" == "vpn" ]]; then
+
+        # Build the deb
+        dpkg -b com.favware.lotusdarksettingsvpnicon
+
+        # Move the deb to the repo/debs folder
+        mv com.favware.lotusdarksettingsvpnicon.deb ../debs/com.favware.lotusdarksettingsvpnicon_$NEW_VERSION.deb
+
+    else
+
+        # Fallback case
+        echo "Unsupported package provided"
+        return 0
+
+    fi
+    popd
+    pushd $REPO_DIR
+
+    # Create Packages index file
+    dpkg-scanpackages -m ./debs >Packages
+
+    # Replace all old email entries with new email entries in the package index
+    yarn replace-in-file '/support\@favna\.xyz/gm' 'support@favware.tech' ./Packages --isRegex
+
+    # Replace all old categories with the new category
+    yarn replace-in-file '/Themes \(Addons\)/gm' 'Themes' ./Packages --isRegex
+
+    # bzip the package index
+    bzip2 -kfq Packages
+
+    # Move out of the source directory
+    popd
+}
+
+# Exit on errors
+set -e
+
+# Ensure a new version is given
+if [[ "$2" == "" ]]; then
+    echo "You need to provide a version to use for the new deb"
+else
+    # Generate the proper deb
+    case $1 in
+    vpn)
+        run vpn $2
+        ;;
+    extra)
+        run extra $2
+        ;;
+    extra13)
+        run extra13 $2
+        ;;
+    *)
+        echo "Unsupported package provided"
+        exit 0
+        ;;
+    esac
+fi

@@ -1,20 +1,19 @@
 {
-  "class":"FeaturedBannersView",
-  "itemSize":"{263, 148}",
-  "itemCornerRadius":10,
-  "banners":
-   [
-     {
-       "url":"https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/LotusDarkExtra.png",
-       "title":"Lotus Dark Extra",
-       "package":"com.favware.lotusdarkextra",
-       "hideShadow":false
-      },
-      {
-        "url":"https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png",
-        "title":"Lotus Dark Settings VPN Icon",
-        "package":"com.favware.lotusdarksettingsvpnicon",
-        "hideShadow":false
-      }
-    ]
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+      "url": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/LotusDarkExtra13.png",
+      "title": "Lotus Dark Extra 13",
+      "package": "com.favware.lotusdarkextra13",
+      "hideShadow": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/LotusDarkExtra.png",
+      "title": "Lotus Dark Extra",
+      "package": "com.favware.lotusdarkextra",
+      "hideShadow": false
+    }
+  ]
 }

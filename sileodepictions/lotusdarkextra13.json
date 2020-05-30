@@ -1,0 +1,154 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/LotusDarkExtra13.png",
+  "tintColor": "#3E464F",
+  "tabs": [
+    {
+      "tabname": "Description",
+      "views": [
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{320, 275.41333333333336}",
+          "screenshots": [
+            {
+              "accessibilityText": "Showcase",
+              "url": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/LotusDarkExtra13.png",
+              "fullSidepiction.jsonzeURL": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/LotusDarkExtra13.png"
+            }
+          ],
+          "ipad": {
+            "itemCornerRadius": 9,
+            "itemSize": "{320, 550.8266666666667}",
+            "screenshots": [
+              {
+                "accessibilityText": "Showcase",
+                "url": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/LotusDarkExtra13.png",
+                "fullSizeURL": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/LotusDarkExtra13.png"
+              }
+            ],
+            "class": "DepictionScreenshotView"
+          },
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## Even more Lotus Dark Icons!\nBack at it again, adding even more icons to Lotus Dark.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Check the \"Supported Icons\" tab for the full list",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0.0",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Released",
+          "text": "May 30th 2020",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "Favna",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Github",
+          "action": "https://github.com/favna/",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "title": "Twitter",
+          "action": "https://twitter.com/favna_",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "title": "Discord Server",
+          "action": "https://favware.tech/redirect/server",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "title": "1.0.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Initial release",
+          "useSpacing": true
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released May 30th 2020</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        }
+      ]
+    },
+    {
+      "tabname": "Supported Icons",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "title": "Cydia / Sileo / Zebra / etc.",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Installer",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "App Store",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Citrix Workspace\n - Greenchoice\n - Keybase\n - Microsoft Teams\n - Mijn KPN\n - Mijn Robeco\n - Mijn Zilveren Kruis\n - NOS\n - Picnic\n - Pokemon Home\n - Ubiquiti UniFi Network",
+          "useSpacing": true
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}

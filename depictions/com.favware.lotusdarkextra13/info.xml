@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra 13</name>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -26,6 +26,7 @@
                   <li>Mijn KPN</li>
                   <li>Mijn Robeco</li>
                   <li>Mijn Zilveren Kruis</li>
+                  <li>New York Pizza (Dutch variant)</li>
                   <li>NOS</li>
                   <li>Picnic</li>
                   <li>Pokemon Home</li>
@@ -38,7 +39,10 @@
 	</descriptionlist>
 	<changelog>
 		<change><![CDATA[
-		<span>Initial Release</span>]]>
+		<span>Adds new icon for:</span>
+		<ul>
+      <li>New York Pizza (Dutch variant)</li>
+		</ul>]]>
 		</change>
 	</changelog>
 </package>

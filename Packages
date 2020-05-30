@@ -455,6 +455,23 @@ Depiction: https://favna.github.io/cydia/depictions/?p=com.favware.lotusdarkextr
 Name: Lotus Dark Extra 13
 Sileodepiction: https://favna.github.io/cydia/sileodepictions/lotusdarkextra13.json
 
+Package: com.favware.lotusdarkextra13
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Favna <support@favware.tech>
+Depends: firmware (>=7.0), mobilesubstrate
+Filename: ./debs/com.favware.lotusdarkextra13_1.0.1.deb
+Size: 392920
+MD5sum: daa95063b14231bb04457bf7c13d2448
+SHA1: 7ba4f6ad3e966e99b46d3f418f25c0d7c81561e9
+SHA256: c872d6e9814eba24d933de594d8e90666a98f98e845ab57dc2b852232cc3ea4b
+Section: Themes
+Description: Even more icons for Lotus Dark
+Author: Favna <support@favware.tech>
+Depiction: https://favna.github.io/cydia/depictions/?p=com.favware.lotusdarkextra13
+Name: Lotus Dark Extra 13
+Sileodepiction: https://favna.github.io/cydia/sileodepictions/lotusdarkextra13.json
+
 Package: com.favware.lotusdarksettingsvpnicon
 Version: 1.0.0
 Architecture: iphoneos-arm

@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/favna/cydia/compare/v1.1.6...v1.2.0) (2020-05-30)
+
+
+### Features
+
+* add Lotus Dark Extra 13 ([98e29f1](https://github.com/favna/cydia/commit/98e29f1a34fbc885f8ad36adeb58892c2c21b54c))
+
 ### [1.1.6](https://github.com/Favna/cydia/compare/v1.1.5...v1.1.6) (2019-08-25)
 
 ### Features

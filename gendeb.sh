@@ -59,10 +59,8 @@ run() {
     dpkg-scanpackages -m ./debs >Packages
 
     # Replace all old email entries with new email entries in the package index
-    yarn replace-in-file '/support\@favna\.xyz/gm' 'support@favware.tech' ./Packages --isRegex
-
     # Replace all old categories with the new category
-    yarn replace-in-file '/Themes \(Addons\)/gm' 'Themes' ./Packages --isRegex
+    yarn gulp
 
     # bzip the package index
     bzip2 -kfq Packages

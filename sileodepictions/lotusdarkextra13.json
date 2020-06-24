@@ -49,12 +49,12 @@
         },
         {
           "title": "Version",
-          "text": "1.0.2",
+          "text": "1.0.3",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Released",
-          "text": "May 30th 2020",
+          "text": "June 24th 2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -97,6 +97,25 @@
       "tabname": "Changelog",
       "class": "DepictionStackView",
       "views": [
+        {
+          "title": "1.0.3",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Added new icons for:\n- PluralSight",
+          "useSpacing": true
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released June 24th 2020</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
         {
           "title": "1.0.2",
           "useBoldText": true,
@@ -182,7 +201,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- Citrix Workspace\n - GitHub\n - Greenchoice\n - Installer\n - Keybase\n - Microsoft Teams\n - Mijn KPN\n - Mijn Robeco\n - Mijn Zilveren Kruis\n - New York Pizza (Dutch variant)\n - NOS\n - Picnic\n - Pokemon Home\n - Ubiquiti UniFi Network",
+          "markdown": "- Citrix Workspace\n - GitHub\n - Greenchoice\n - Installer\n - Keybase\n - Microsoft Teams\n - Mijn KPN\n - Mijn Robeco\n - Mijn Zilveren Kruis\n - New York Pizza (Dutch variant)\n - NOS\n - Picnic\n - PluralSight\n - Pokemon Home\n - Ubiquiti UniFi Network",
           "useSpacing": true
         }
       ]

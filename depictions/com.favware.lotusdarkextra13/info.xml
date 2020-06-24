@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra 13</name>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -30,6 +30,7 @@
                   <li>New York Pizza (Dutch variant)</li>
                   <li>NOS</li>
                   <li>Picnic</li>
+                  <li>PluralSight</li>
                   <li>Pokemon Home</li>
                   <li>Ubiquiti UniFi Network</li>
 					</ul>
@@ -42,7 +43,7 @@
 		<change><![CDATA[
 		<span>Adds new icon for:</span>
 		<ul>
-      <li>GitHub</li>
+      <li>PluralSight</li>
 		</ul>]]>
 		</change>
 	</changelog>

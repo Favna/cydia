@@ -5,6 +5,7 @@
   "tabs": [
     {
       "tabname": "Description",
+      "class": "DepictionStackView",
       "views": [
         {
           "itemCornerRadius": 6,
@@ -44,28 +45,28 @@
           "class": "DepictionSeparatorView"
         },
         {
-          "title": "Latest Version",
-          "class": "DepictionHeaderView"
+          "class": "DepictionHeaderView",
+          "title": "Latest Version"
         },
         {
+          "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.1.0",
-          "class": "DepictionTableTextView"
+          "text": "1.1.0"
         },
         {
+          "class": "DepictionTableTextView",
           "title": "Released",
-          "text": "March 8th 2021",
-          "class": "DepictionTableTextView"
+          "text": "March 8th 2021"
         },
         {
+          "class": "DepictionTableTextView",
           "title": "Price",
-          "text": "Free",
-          "class": "DepictionTableTextView"
+          "text": "Free"
         },
         {
+          "class": "DepictionTableTextView",
           "title": "Developer",
-          "text": "Favna",
-          "class": "DepictionTableTextView"
+          "text": "Favna"
         },
         {
           "title": "Github",
@@ -90,8 +91,7 @@
           "spacing": 20,
           "class": "DepictionSpacerView"
         }
-      ],
-      "class": "DepictionStackView"
+      ]
     },
     {
       "tabname": "Changelog",
@@ -105,7 +105,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**Added new icons for:\n- Adobe Fill & Sign\n- Adobe Photoshop\n- Adobe Premiere Rush\n- Adobe Scan\n- Adope Lightroom for iPad\n- Asphalt 8 - Drift Racing Game\n- Funda\n- The Game of Life 2\n- iCleaner Pro\n- nControl\n- NPO",
+          "markdown": "**Added new icons for**:\n- Adobe Fill & Sign\n- Adobe Photoshop\n- Adobe Premiere Rush\n- Adobe Scan\n- Adope Lightroom for iPad\n- Asphalt 8 - Drift Racing Game\n- Funda\n- The Game of Life 2\n- iCleaner Pro\n- nControl\n- NPO",
           "useSpacing": true
         },
         {
@@ -124,7 +124,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**Added new icons for:\n- DolphiniOS\n - Working Copy",
+          "markdown": "**Added new icons for**:\n- DolphiniOS\n - Working Copy",
           "useSpacing": true
         },
         {
@@ -143,7 +143,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**Added new icons for:\n- PluralSight",
+          "markdown": "**Added new icons for**:\n- PluralSight",
           "useSpacing": true
         },
         {
@@ -162,7 +162,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "**Added new icons for:\n- GitHub",
+          "markdown": "**Added new icons for**:\n- GitHub",
           "useSpacing": true
         },
         {
@@ -221,11 +221,11 @@
           "title": "Cydia / Sileo / Zebra / etc.",
           "useBoldText": true,
           "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
+          "class": "DepictionHeaderView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- Installer\n- DolphiniOS",
+          "markdown": "- Installer\n- DolphiniOS\n- iCleaner Pro\n- nControl",
           "useSpacing": true
         },
         {
@@ -239,7 +239,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "- Citrix Workspace\n - GitHub\n - Greenchoice\n - Installer\n - Keybase\n - Microsoft Teams\n - Mijn KPN\n - Mijn Robeco\n - Mijn Zilveren Kruis\n - New York Pizza (Dutch variant)\n - NOS\n - Picnic\n - PluralSight\n - Pokemon Home\n - Ubiquiti UniFi Network\n - Working Copy",
+          "markdown": "- Adobe Fill & Sign\n- Adobe Photoshop\n- Adobe Premiere Rush\n- Adobe Scan\n- Adope Lightroom for iPad\n- Asphalt 8 - Drift Racing Game\n- Citrix Workspace\n- Funda\n- GitHub\n- Greenchoice\n- Keybase\n- Microsoft Teams\n- Mijn KPN\n- Mijn Robeco\n- Mijn Zilveren Kruis\n- New York Pizza (Dutch variant)\n- NOS\n- NPO\n- Picnic\n- PluralSight\n- Pokemon Home\n- The Game of Life 2\n- Ubiquiti UniFi Network\n- Working Copy",
           "useSpacing": true
         }
       ]

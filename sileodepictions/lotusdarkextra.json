@@ -69,17 +69,17 @@
         },
         {
           "title": "Github",
-          "action": "https://github.com/favna/cydia/",
+          "action": "https://redirect.favware.tech/githubcydia/",
           "class": "DepictionTableButtonView"
         },
         {
           "title": "Twitter",
-          "action": "https://twitter.com/favna_",
+          "action": "https://redirect.favware.tech/twitter",
           "class": "DepictionTableButtonView"
         },
         {
           "title": "Discord Server",
-          "action": "https://favware.tech/redirect/server",
+          "action": "https://join.favware.tech",
           "class": "DepictionTableButtonView"
         },
         {

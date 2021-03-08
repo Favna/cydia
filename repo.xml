@@ -2,12 +2,12 @@
 	<footerlinks>
 		<link>
 			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/favna_</url>
+			<url>https://redirect.favware.tech/twitter</url>
 			<iconclass>fab fa-twitter</iconclass>
 		</link>
 		<link>
 			<name>Join my Discord server</name>
-			<url>https://favware.tech/redirect/server</url>
+			<url>https://join.favware.tech</url>
 			<iconclass>fab fa-discord</iconclass>
 		</link>
 		<link>

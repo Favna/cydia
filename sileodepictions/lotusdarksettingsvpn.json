@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://github.com/Favna/cydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png",
+  "headerImage": "https://redirect.favware.tech/githubcydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png",
   "tintColor": "#0d59db",
   "tabs": [
     {
@@ -12,8 +12,8 @@
           "screenshots": [
             {
               "accessibilityText": "Showcase",
-              "url": "https://github.com/Favna/cydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png",
-              "fullSizeURL": "https://github.com/Favna/cydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png"
+              "url": "https://redirect.favware.tech/githubcydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png",
+              "fullSizeURL": "https://redirect.favware.tech/githubcydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png"
             }
           ],
           "ipad": {
@@ -22,8 +22,8 @@
             "screenshots": [
               {
                 "accessibilityText": "Showcase",
-                "url": "https://github.com/Favna/cydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png",
-                "fullSizeURL": "https://github.com/Favna/cydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png"
+                "url": "https://redirect.favware.tech/githubcydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png",
+                "fullSizeURL": "https://redirect.favware.tech/githubcydia/blob/master/assets/sileobanners/LotusDarkSettingsVPNIcon.png"
               }
             ],
             "class": "DepictionScreenshotView"
@@ -68,12 +68,12 @@
         },
         {
           "title": "Twitter",
-          "action": "https://twitter.com/favna_",
+          "action": "https://redirect.favware.tech/twitter",
           "class": "DepictionTableButtonView"
         },
         {
           "title": "Discord Server",
-          "action": "https://favware.tech/redirect/server",
+          "action": "https://join.favware.tech",
           "class": "DepictionTableButtonView"
         },
         {

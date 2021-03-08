@@ -1,7 +1,7 @@
 <package>
 	<id>com.favware.lotusdarkextra</id>
 	<name>Lotus Dark Extra 13</name>
-	<version>1.0.4</version>
+	<version>1.1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -18,23 +18,34 @@
 			<![CDATA[<div class="collapse" id="iconList">
 				<div class="card card-body">
 					<ul>
-                  <li>Citrix Workspace</li>
-                  <li>DolphiniOS</li>
-                  <li>GitHub</li>
-                  <li>Greenchoice</li>
-                  <li>Installer</li>
-                  <li>Keybase</li>
-                  <li>Microsoft Teams</li>
-                  <li>Mijn KPN</li>
-                  <li>Mijn Robeco</li>
-                  <li>Mijn Zilveren Kruis</li>
-                  <li>New York Pizza (Dutch variant)</li>
-                  <li>NOS</li>
-                  <li>Picnic</li>
-                  <li>PluralSight</li>
-                  <li>Pokemon Home</li>
-                  <li>Ubiquiti UniFi Network</li>
-                  <li>Working Copy</li>
+				<li>Adobe Fill & Sign</li>
+				<li>Adobe Photoshop</li>
+				<li>Adobe Premiere Rush</li>
+				<li>Adobe Scan</li>
+				<li>Adope Lightroom for iPad</li>
+				<li>Asphalt 8 - Drift Racing Game</li>
+				<li>Citrix Workspace</li>
+				<li>DolphiniOS</li>
+				<li>Funda</li>
+				<li>GitHub</li>
+				<li>Greenchoice</li>
+				<li>iCleaner Pro</li>
+				<li>Installer</li>
+				<li>Keybase</li>
+				<li>Microsoft Teams</li>
+				<li>Mijn KPN</li>
+				<li>Mijn Robeco</li>
+				<li>Mijn Zilveren Kruis</li>
+				<li>nControl</li>
+				<li>New York Pizza (Dutch variant)</li>
+				<li>NOS</li>
+				<li>NPO</li>
+				<li>Picnic</li>
+				<li>PluralSight</li>
+				<li>Pokemon Home</li>
+				<li>The Game of Life 2</li>
+				<li>Ubiquiti UniFi Network</li>
+				<li>Working Copy</li>
 					</ul>
 				</div>
 			</div>]]>
@@ -45,8 +56,17 @@
 		<change><![CDATA[
 		<span>Adds new icon for:</span>
 		<ul>
-      <li>DolphiniOS</li>
-      <li>Working Copy</li>
+      <li>Adobe Fill & Sign</li>
+      <li>Adobe Photoshop</li>
+      <li>Adobe Premiere Rush</li>
+      <li>Adobe Scan</li>
+      <li>Adope Lightroom for iPad</li>
+      <li>Asphalt 8 - Drift Racing Game</li>
+      <li>Funda</li>
+      <li>The Game of Life 2</li>
+      <li>iCleaner Pro</li>
+      <li>nControl</li>
+      <li>NPO</li>
 		</ul>]]>
 		</change>
 	</changelog>

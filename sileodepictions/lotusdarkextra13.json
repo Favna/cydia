@@ -49,12 +49,12 @@
         },
         {
           "title": "Version",
-          "text": "1.0.4",
+          "text": "1.1.0",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Released",
-          "text": "July 30th 2020",
+          "text": "March 8th 2021",
           "class": "DepictionTableTextView"
         },
         {
@@ -69,17 +69,17 @@
         },
         {
           "title": "Github",
-          "action": "https://github.com/favna/",
+          "action": "https://redirect.favware.tech/github",
           "class": "DepictionTableButtonView"
         },
         {
           "title": "Twitter",
-          "action": "https://twitter.com/favna_",
+          "action": "https://redirect.favware.tech/twitter",
           "class": "DepictionTableButtonView"
         },
         {
           "title": "Discord Server",
-          "action": "https://favware.tech/redirect/server",
+          "action": "https://join.favware.tech",
           "class": "DepictionTableButtonView"
         },
         {
@@ -97,6 +97,25 @@
       "tabname": "Changelog",
       "class": "DepictionStackView",
       "views": [
+        {
+          "title": "1.1.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Added new icons for:\n- Adobe Fill & Sign\n- Adobe Photoshop\n- Adobe Premiere Rush\n- Adobe Scan\n- Adope Lightroom for iPad\n- Asphalt 8 - Drift Racing Game\n- Funda\n- The Game of Life 2\n- iCleaner Pro\n- nControl\n- NPO",
+          "useSpacing": true
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released March 8th 2021</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
         {
           "title": "1.0.4",
           "useBoldText": true,

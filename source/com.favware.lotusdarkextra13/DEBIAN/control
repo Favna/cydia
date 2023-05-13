@@ -1,6 +1,6 @@
 Package: com.favware.lotusdarkextra13
 Name: Lotus Dark Extra 13
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm iphoneos-arm64
 Depends: firmware (>=7.0), mobilesubstrate
 Description: Even more icons for Lotus Dark
 Maintainer: Favna <support@favware.tech>
@@ -8,4 +8,4 @@ Author: Favna <support@favware.tech>
 Section: Themes
 Depiction: https://favna.github.io/cydia/depictions/?p=com.favware.lotusdarkextra13
 SileoDepiction: https://favna.github.io/cydia/sileodepictions/lotusdarkextra13.json
-Version: 1.1.0
+Version: 1.2.0

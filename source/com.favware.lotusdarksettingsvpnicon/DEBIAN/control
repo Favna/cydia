@@ -1,6 +1,6 @@
 Package: com.favware.lotusdarksettingsvpnicon
 Name: Lotus Dark Settings VPN Icon
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm iphoneos-arm64
 Depends: firmware (>=7.0), mobilesubstrate
 Description: VPN Icon for Preferences app for Lotus Dark
 Maintainer: Favna <support@favware.tech>
@@ -8,4 +8,4 @@ Author: Favna <support@favware.tech>
 Section: Themes
 Depiction: https://favna.github.io/cydia/depictions/?p=com.favware.lotusdarksettingsvpnicon
 SileoDepiction: https://favna.github.io/cydia/sileodepictions/lotusdarksettingsvpn.json
-Version: 1.0.0
+Version: 1.1.0

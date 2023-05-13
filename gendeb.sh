@@ -19,16 +19,16 @@ run() {
     # Move into the source directory
     pushd $SOURCE_DIR
 
-    cp ../icons/* ./com.favware.darkcons/Library/Themes/Darkcons/IconBundles
-    cp ../icons/* ./com.favware.darkcons-rootless/var/jb/Library/Themes/Darkcons/IconBundles
+    cp ../icons/* ./tech.favware.darkcons/Library/Themes/Darkcons/IconBundles
+    cp ../icons/* ./tech.favware.darkcons-rootless/var/jb/Library/Themes/Darkcons/IconBundles
 
     # Build the debs
-    dpkg -b com.favware.darkcons
-    dpkg -b com.favware.darkcons-rootless
+    dpkg -b tech.favware.darkcons
+    dpkg -b tech.favware.darkcons-rootless
 
     # Move the debs to the repo/debs folder
-    mv com.favware.darkcons.deb ../debs/com.favware.darkcons_$NEW_VERSION.deb
-    mv com.favware.darkcons-rootless.deb ../debs/com.favware.darkcons-rootless_$NEW_VERSION.deb
+    mv tech.favware.darkcons.deb ../debs/tech.favware.darkcons_$NEW_VERSION.deb
+    mv tech.favware.darkcons-rootless.deb ../debs/tech.favware.darkcons-rootless_$NEW_VERSION.deb
 
     popd
     pushd $REPO_DIR

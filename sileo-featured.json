@@ -6,7 +6,7 @@
     {
       "url": "https://raw.githubusercontent.com/Favna/cydia/main/assets/sileobanners/Darkcons.png",
       "title": "Darkcons",
-      "package": "com.favware.darkcons",
+      "package": "tech.favware.darkcons",
       "hideShadow": false
     }
   ]

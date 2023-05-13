@@ -4,15 +4,9 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-      "url": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/LotusDarkExtra13.png",
-      "title": "Lotus Dark Extra 13",
-      "package": "com.favware.lotusdarkextra13",
-      "hideShadow": false
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/LotusDarkExtra.png",
-      "title": "Lotus Dark Extra",
-      "package": "com.favware.lotusdarkextra",
+      "url": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/Darkcons.png",
+      "title": "Darkcons",
+      "package": "com.favware.darkcons",
       "hideShadow": false
     }
   ]

@@ -1,111 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<title>Favware</title>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="apple-mobile-web-app-capable" content="yes" />
-		<meta name="format-detection" content="telephone=no">
-		<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-		<script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/js/bootstrap.min.js"></script>
 
-		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
-		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/css/bootstrap.min.css">
-		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.2.1/darkly/bootstrap.min.css" >
-		<link rel="stylesheet" href="assets/design.css">
+<head>
+	<title>Favware</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="format-detection" content="telephone=no">
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript"
+		src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+	<script type="text/javascript"
+		src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/js/bootstrap.min.js"></script>
 
-		<link rel="apple-touch-icon" sizes="180x180" href="assets/favicons/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="assets/favicons/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="assets/favicons/favicon-16x16.png">
-		<link rel="manifest" href="assets/favicons/site.webmanifest">
-		<link rel="mask-icon" href="assets/favicons/safari-pinned-tab.svg" color="#3ac186">
-		<link rel="shortcut icon" href="assets/favicons/favicon.ico">
-		<meta name="apple-mobile-web-app-title" content="Favware">
-		<meta name="application-name" content="Favware">
-		<meta name="msapplication-TileColor" content="#ffffff">
-		<meta name="msapplication-config" content="assets/favicons/browserconfig.xml">
-		<meta name="theme-color" content="#ffffff">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.2.1/darkly/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/design.css">
 
-		<meta name="robots" content="archive,follow,imageindex,index,odp,snippet,translate" />
-		<meta name="author" content="Jeroen Claassens, support@favware.tech" />
-		<meta name="reply-to" content="support@favware.tech" />
-		<meta name="target" content="all" />
-		<meta name="audience" content="all" />
-		<meta name="coverage" content="Worldwide" />
-		<meta name="distribution" content="Global" />
-		<meta name="rating" content="safe for kids" />
-		<meta name="apple-mobile-web-app-capable" content="yes" />
-		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
-		<meta name="HandheldFriendly" content="True" />
-	</head>
+	<link rel="apple-touch-icon" sizes="180x180" href="assets/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="assets/favicons/favicon-16x16.png">
+	<link rel="manifest" href="assets/favicons/site.webmanifest">
+	<link rel="mask-icon" href="assets/favicons/safari-pinned-tab.svg" color="#3ac186">
+	<link rel="shortcut icon" href="assets/favicons/favicon.ico">
+	<meta name="apple-mobile-web-app-title" content="Favware">
+	<meta name="application-name" content="Favware">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-config" content="assets/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
 
-	<body>
-		<div class="container">
-			<h1><img src="CydiaIcon.png" height="57"> Favware</h1>
-		</div>
+	<meta name="robots" content="archive,follow,imageindex,index,odp,snippet,translate" />
+	<meta name="author" content="Jeroen Claassens, support@favware.tech" />
+	<meta name="reply-to" content="support@favware.tech" />
+	<meta name="target" content="all" />
+	<meta name="audience" content="all" />
+	<meta name="coverage" content="Worldwide" />
+	<meta name="distribution" content="Global" />
+	<meta name="rating" content="safe for kids" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	<meta name="HandheldFriendly" content="True" />
+</head>
 
-		<div class="container">
-			<div class="card">
-				<div class="card-body">
+<body>
+	<div class="container">
+		<h1><img src="CydiaIcon.png" height="57"> Favware</h1>
+	</div>
+
+	<div class="container">
+		<div class="card">
+			<div class="card-body">
 				<p><span class="text-primary"></span>Favware</span> - small cydia repo for Favna's warez</p>
-				<a class="btn btn-block btn-primary" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://favna.github.io/cydia/">Beam repo into Cydia</a>
+				<a class="btn btn-block btn-primary"
+					href="cydia://url/https://cydia.saurik.com/api/share#?source=https://favna.github.io/cydia/">Beam
+					repo into Cydia</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="container">
+		<h3 class="display-5">Featured Packages</h3>
+	</div>
+
+	<div class="container">
+		<div class="card">
+			<div class="card-header">Darkcons</div>
+			<div class="card-body">
+				<div class="row">
+					<div class="col-12 depiction-text-padding">
+						Dark themed icon pack supporting over 300 custom icons
+					</div>
+					<div class="col-12">
+						<a href="depictions/?p=com.favware.darkcons">
+							<button class="btn btn-sm btn-block btn-primary">More info</button>
+						</a>
+					</div>
 				</div>
 			</div>
 		</div>
+	</div>
+</body>
 
-		<div class="container">
-			<h3 class="display-5">Featured Packages</h3>
-		</div>
-
-		<div class="container">
-			<div class="card">
-				<div class="card-header">Lotus Dark Extra 13</div>
-				<div class="card-body">
-					<div class="row">
-						<div class="col-12 depiction-text-padding">
-								Even more icons for Lotus Dark
-						</div>
-						<div class="col-12">
-							<a href="depictions/?p=com.favware.lotusdarkextra13">
-								<button class="btn btn-sm btn-block btn-primary">More info</button>
-							</a>
-						</div>
-					</div>		
-				</div>
-			</div>
-
-			<div class="card">
-				<div class="card-header">Lotus Dark Extra</div>
-				<div class="card-body">
-					<div class="row">
-						<div class="col-12 depiction-text-padding">
-								Extra Icons for Lotus Dark
-						</div>
-						<div class="col-12">
-							<a href="depictions/?p=com.favware.lotusdarkextra">
-								<button class="btn btn-sm btn-block btn-primary">More info</button>
-							</a>
-						</div>
-					</div>		
-				</div>
-			</div>
-
-			<div class="card">
-				<div class="card-header">Lotus Dark Settings VPN Icon</div>
-				<div class="card-body">
-					<div class="row">
-						<div class="col-12 depiction-text-padding">
-							VPN Icon for Preferences app for Lotus Dark
-						</div>
-						<div class="col-12">
-							<a href="depictions/?p=com.favware.lotusdarksettingsvpnicon">
-								<button class="btn btn-sm btn-block btn-primary">More info</button>
-							</a>
-						</div>
-					</div>		
-				</div>
-			</div>
-		</div>
-	</body>
 </html>

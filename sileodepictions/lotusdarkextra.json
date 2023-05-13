@@ -32,7 +32,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## Extra Lotus Dark Icons\nLotus Dark has stopped receiving updates and I created many extra icons for it. I decided to make the icons publicaly available through this package. While you can totally install this without buying Lotus Dark it really won't work all that well so I recommend you also buy Lotus Dark from the Packix repository.",
+          "markdown": "## Extra Lotus Dark Icons\nLotus Dark has stopped receiving updates and I created many extra icons for it. I decided to make the icons publicaly available through this package.",
           "useSpacing": true
         },
         {
@@ -49,12 +49,12 @@
         },
         {
           "title": "Version",
-          "text": "1.1.6",
+          "text": "1.2.0",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Released",
-          "text": "August 25th 2019",
+          "text": "May 13th 2023",
           "class": "DepictionTableTextView"
         },
         {
@@ -97,6 +97,25 @@
       "tabname": "Changelog",
       "class": "DepictionStackView",
       "views": [
+        {
+          "title": "1.2.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Marked this package as safe for rootless jailbreak",
+          "useSpacing": true
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released May 13th 2023</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
         {
           "title": "1.1.6",
           "useBoldText": true,

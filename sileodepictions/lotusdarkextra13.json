@@ -51,12 +51,12 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.1.0"
+          "text": "1.2.0"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Released",
-          "text": "March 8th 2021"
+          "text": "May 13th 2023"
         },
         {
           "class": "DepictionTableTextView",
@@ -97,6 +97,25 @@
       "tabname": "Changelog",
       "class": "DepictionStackView",
       "views": [
+        {
+          "title": "1.2.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Marked this package as safe for rootless jailbreak",
+          "useSpacing": true
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released May 13th 2023</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
         {
           "title": "1.1.0",
           "useBoldText": true,

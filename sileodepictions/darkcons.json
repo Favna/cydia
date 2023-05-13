@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/Darkcons.png",
+  "headerImage": "https://raw.githubusercontent.com/Favna/cydia/main/assets/sileobanners/Darkcons.png",
   "tintColor": "#3E464F",
   "tabs": [
     {
@@ -12,8 +12,8 @@
           "screenshots": [
             {
               "accessibilityText": "Showcase",
-              "url": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/Darkcons.png",
-              "fullSidepiction.jsonzeURL": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/Darkcons.png"
+              "url": "https://raw.githubusercontent.com/Favna/cydia/main/assets/sileobanners/Darkcons.png",
+              "fullSidepiction.jsonzeURL": "https://raw.githubusercontent.com/Favna/cydia/main/assets/sileobanners/Darkcons.png"
             }
           ],
           "ipad": {
@@ -22,8 +22,8 @@
             "screenshots": [
               {
                 "accessibilityText": "Showcase",
-                "url": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/Darkcons.png",
-                "fullSizeURL": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/Darkcons.png"
+                "url": "https://raw.githubusercontent.com/Favna/cydia/main/assets/sileobanners/Darkcons.png",
+                "fullSizeURL": "https://raw.githubusercontent.com/Favna/cydia/main/assets/sileobanners/Darkcons.png"
               }
             ],
             "class": "DepictionScreenshotView"

@@ -9,5 +9,6 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-replace": "^1.0.0"
-  }
+  },
+  "packageManager": "yarn@3.5.1"
 }

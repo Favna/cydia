@@ -1,6 +1,6 @@
-Package: com.favware.darkcons
-Name: Darkcons
-Architecture: iphoneos-arm
+Package: com.favware.darkcons-rootless
+Name: Darkcons Rootless
+Architecture: iphoneos-arm64
 Depends: firmware (>=7.0), mobilesubstrate
 Description: Dark themed icons
 Maintainer: Favna <support@favware.tech>

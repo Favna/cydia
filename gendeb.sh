@@ -19,8 +19,8 @@ run() {
     # Move into the source directory
     pushd $SOURCE_DIR
 
-    mv ../icons/* ./com.favware.darkcons/Library/Themes/Darkcons/IconBundles
-    mv ../icons/* ./com.favware.darkcons-rootless/Library/Themes/Darkcons/IconBundles
+    cp ../icons/* ./com.favware.darkcons/Library/Themes/Darkcons/IconBundles
+    cp ../icons/* ./com.favware.darkcons-rootless/Library/Themes/Darkcons/IconBundles
 
     # Build the debs
     dpkg -b com.favware.darkcons

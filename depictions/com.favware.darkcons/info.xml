@@ -1,0 +1,17 @@
+<package>
+	<id>com.favware.darkcons</id>
+	<name>Darkcons</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>Dark themed icon pack supporting over 300 custom icons</shortDescription>
+	<descriptionlist>
+		<description>No screenshots for this item. No options to configure. Toggle the theme in Anemone / Snowboard</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+</package>

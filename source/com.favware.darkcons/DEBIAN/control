@@ -1,0 +1,11 @@
+Package: com.favware.darkcons
+Name: Darkcons
+Architecture: iphoneos-arm
+Depends: firmware (>=7.0), mobilesubstrate
+Description: Dark themed icons
+Maintainer: Favna <support@favware.tech>
+Author: Favna <support@favware.tech>
+Section: Themes
+Depiction: https://favna.github.io/cydia/depictions/?p=com.favware.darkcons
+SileoDepiction: https://favna.github.io/cydia/sileodepictions/darkcons.json
+Version: 1.0.0

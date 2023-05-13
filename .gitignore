@@ -1,43 +1,4 @@
-# Mac OS generated files #
-######################
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
 
-# dependencies
-node_modules
-
-# misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# Build Artifacts
-*.zip
-*.tar
-*.tar.xz
-*.tar.gz
-*.7z
-*.rar
-
-# Logs
-logs/
-coverage/
-*.log*
-*.bak
-
-# IDE Settings
-.idea/
-.vscode/*
-.vs/
-*.iml
-
-# Yarn files
-.yarn/install-state.gz
-.yarn/build-state.yml
+# Copied icons in source
+source/**/*.png

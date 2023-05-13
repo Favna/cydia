@@ -1,0 +1,115 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/Darkcons.png",
+  "tintColor": "#3E464F",
+  "tabs": [
+    {
+      "tabname": "Description",
+      "views": [
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{320, 275.41333333333336}",
+          "screenshots": [
+            {
+              "accessibilityText": "Showcase",
+              "url": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/Darkcons.png",
+              "fullSidepiction.jsonzeURL": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/Darkcons.png"
+            }
+          ],
+          "ipad": {
+            "itemCornerRadius": 9,
+            "itemSize": "{320, 550.8266666666667}",
+            "screenshots": [
+              {
+                "accessibilityText": "Showcase",
+                "url": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/Darkcons.png",
+                "fullSizeURL": "https://raw.githubusercontent.com/Favna/cydia/master/assets/sileobanners/Darkcons.png"
+              }
+            ],
+            "class": "DepictionScreenshotView"
+          },
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## Dark themed icon pack supporting over 300 custom icons",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0.0",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Released",
+          "text": "May 14th 2023",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "Favna",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Github",
+          "action": "https://redirect.favware.tech/githubcydia/",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "title": "Twitter",
+          "action": "https://redirect.favware.tech/twitter",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "title": "Discord Server",
+          "action": "https://join.favware.tech",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "title": "1.0.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Initial Release",
+          "useSpacing": true
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released May 14th 2023</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        }
+      ]
+    }
+  ],
+  "class": "DepictionTabView"
+}

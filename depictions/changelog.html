@@ -1,130 +1,128 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Changelog</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script
-      type="text/javascript"
-      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-    ></script>
-    <script
-      type="text/javascript"
-      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/js/bootstrap.min.js"
-    ></script>
-    <script type="text/javascript" src="js/jquery.querystring.js"></script>
-    <script type="text/javascript" src="js/data-loader-engine.js"></script>
-    <script type="text/javascript" src="js/ios_version_check.js"></script>
 
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.2.1/darkly/bootstrap.min.css" />
-    <link rel="stylesheet" href="style.css" />
-    <style>
-      @media (max-width: 767px) {
-        body {
-          margin: 0;
-          padding: 0;
-          border: 0;
-          outline: 0;
-          box-sizing: border-box;
-        }
+<head>
+  <title>Changelog</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="js/jquery.querystring.js"></script>
+  <script type="text/javascript" src="js/data-loader-engine.js"></script>
+  <script type="text/javascript" src="js/ios_version_check.js"></script>
+
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.2.1/darkly/bootstrap.min.css" />
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    @media (max-width: 767px) {
+      body {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        box-sizing: border-box;
       }
-    </style>
-    <script type="text/javascript">
-      bundleid = $.QueryString['p'];
+    }
+  </style>
+  <script type="text/javascript">
+    bundleid = $.QueryString['p'];
 
-      var contentBlocks = {
-        '#changeLogList': {
-          type: 'articles',
-          source: 'changelog',
-          titleSource: 'version',
-          paragraphSource: 'change',
-          titleElement: '<h5>',
-          paragraphContainer: "<ul class='list-group'>",
-          paragraphElement: "<li class='list-group-item'>"
+    var contentBlocks = {
+      '#changeLogList': {
+        type: 'articles',
+        source: 'changelog',
+        titleSource: 'version',
+        paragraphSource: 'change',
+        titleElement: '<h5>',
+        paragraphContainer: "<ul class='list-group'>",
+        paragraphElement: "<li class='list-group-item'>"
+      }
+    };
+    $(document).ready(function () {
+      $.ajax({
+        type: 'GET',
+        dataType: 'xml',
+        url: bundleid + '/changelog.xml',
+        success: function (xml) {
+          data_loader_engine(contentBlocks, xml);
+        },
+        cache: false,
+        error: function () {
+          $('#packageError').show();
+          $('#packageInformation').hide();
         }
-      };
-      $(document).ready(function () {
-        $.ajax({
-          type: 'GET',
-          dataType: 'xml',
-          url: bundleid + '/changelog.xml',
-          success: function (xml) {
-            data_loader_engine(contentBlocks, xml);
-          },
-          cache: false,
-          error: function () {
-            $('#packageError').show();
-            $('#packageInformation').hide();
-          }
-        }); //ajax
-      }); // ready
-    </script>
-  </head>
-  <body>
-    <br />
+      }); //ajax
+    }); // ready
+  </script>
+</head>
 
-    <div id="packageInformation">
-      <div class="container" id="changeLogList"></div>
-    </div>
-    <div id="packageError" style="display: none;">
-      <div class="container">
-        <div class="alert alert-danger">
-          <strong>Oh snap!</strong> The package you are tying to view is not hosted on this repository.
-        </div>
+<body>
+  <br />
+
+  <div id="packageInformation">
+    <div class="container" id="changeLogList"></div>
+  </div>
+  <div id="packageError" style="display: none;">
+    <div class="container">
+      <div class="alert alert-danger">
+        <strong>Oh snap!</strong> The package you are tying to view is not hosted on this repository.
       </div>
     </div>
-    <!-- REPO FOOTER -->
-    <script type="text/javascript">
-      var repoContents = {
-        '#repoFooterLinks': {
-          type: 'custom',
-          source: 'repo>footerlinks>link',
-          render: function (element, source) {
-            $.each(source, function (index, data) {
-              var a = $("<a class='link-item list-group-item'>");
-              a.attr('href', $(data).find('url').text());
-              if ($(data).find('iconclass')) {
-                var i = $('<span>');
-                i.attr('class', $(data).find('iconclass').text());
-                $(a).append(i);
-              }
-              $(a).append($(data).find('name').text());
-              $(element).append(a);
-            }); //each
-          } //render
-        }
-      };
-      $(document).ready(function () {
-        $.ajax({
-          type: 'GET',
-          dataType: 'xml',
-          url: '../repo.xml',
-          cache: false,
-          success: function (xml) {
-            data_loader_engine(repoContents, xml);
-            if (navigator.userAgent.search(/Cydia/) != -1) {
-              $('a').each(function () {
-                $(this).attr('target', '_blank');
-              });
+  </div>
+  <!-- REPO FOOTER -->
+  <script type="text/javascript">
+    var repoContents = {
+      '#repoFooterLinks': {
+        type: 'custom',
+        source: 'repo>footerlinks>link',
+        render: function (element, source) {
+          $.each(source, function (index, data) {
+            var a = $("<a class='link-item list-group-item'>");
+            a.attr('href', $(data).find('url').text());
+            if ($(data).find('iconclass')) {
+              var i = $('<span>');
+              i.attr('class', $(data).find('iconclass').text());
+              $(a).append(i);
             }
-          },
-
-          error: function () {
-            $('#contactInfo').hide();
+            $(a).append($(data).find('name').text());
+            $(element).append(a);
+          }); //each
+        } //render
+      }
+    };
+    $(document).ready(function () {
+      $.ajax({
+        type: 'GET',
+        dataType: 'xml',
+        url: '../repo.xml',
+        cache: false,
+        success: function (xml) {
+          data_loader_engine(repoContents, xml);
+          if (navigator.userAgent.search(/Cydia/) != -1) {
+            $('a').each(function () {
+              $(this).attr('target', '_blank');
+            });
           }
-        }); //ajax
-      }); // ready
-    </script>
+        },
 
-    <div id="contactInfo">
-      <div class="container">
-        <h5>CONTACT</h5>
-        <ul class="list-group" id="repoFooterLinks"></ul>
-      </div>
+        error: function () {
+          $('#contactInfo').hide();
+        }
+      }); //ajax
+    }); // ready
+  </script>
+
+  <div id="contactInfo">
+    <div class="container">
+      <h5>CONTACT</h5>
+      <ul class="list-group" id="repoFooterLinks"></ul>
     </div>
-    <!-- REPO FOOTER ENDS -->
-  </body>
+  </div>
+  <!-- REPO FOOTER ENDS -->
+</body>
+
 </html>

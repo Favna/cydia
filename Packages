@@ -15,6 +15,23 @@ Depiction: https://favna.github.io/cydia/depictions/?p=tech.favware.darkcons
 Name: Darkcons
 Sileodepiction: https://favna.github.io/cydia/sileodepictions/darkcons.json
 
+Package: tech.favware.darkcons
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Favna <support@favware.tech>
+Depends: firmware (>=7.0), mobilesubstrate
+Filename: ./debs/tech.favware.darkcons_1.1.0.deb
+Size: 19360176
+MD5sum: 5e5d00eb57c6e6dc5dbc5f33735e9d74
+SHA1: 2226eac72bd8170021f91495707f4b866e0e2ab2
+SHA256: 6e68b5c7f8cd32e7e6fb649f6386d527f8703912bd5a1e979a4a5597c5532d4e
+Section: Themes
+Description: Dark themed icons
+Author: Favna <support@favware.tech>
+Depiction: https://favna.github.io/cydia/depictions/?p=tech.favware.darkcons
+Name: Darkcons
+Sileodepiction: https://favna.github.io/cydia/sileodepictions/darkcons.json
+
 Package: tech.favware.darkcons-rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -25,6 +42,23 @@ Size: 5595092
 MD5sum: 41922fa5165ede372bc0b86e2e7c01ce
 SHA1: 23dcdc2285a6acc9173072c9eb7ee491277135ee
 SHA256: 77637d570491a4cff7f6dab3923a9fec877b9b3d95f5bbadac139d936b3c18c7
+Section: Themes
+Description: Dark themed icons
+Author: Favna <support@favware.tech>
+Depiction: https://favna.github.io/cydia/depictions/?p=tech.favware.darkcons
+Name: Darkcons Rootless
+Sileodepiction: https://favna.github.io/cydia/sileodepictions/darkcons.json
+
+Package: tech.favware.darkcons-rootless
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Favna <support@favware.tech>
+Depends: firmware (>=7.0), mobilesubstrate
+Filename: ./debs/tech.favware.darkcons-rootless_1.1.0.deb
+Size: 19360912
+MD5sum: 9d280b62f13f5928c04200a70cd86b6f
+SHA1: a06755a01959555847775bdb657f4136f0c61240
+SHA256: 7be7442c98c0252fb109ac54fe1d15c0703ed6e169245c86868638671c150181
 Section: Themes
 Description: Dark themed icons
 Author: Favna <support@favware.tech>

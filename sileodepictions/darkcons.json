@@ -44,7 +44,7 @@
         },
         {
           "title": "Version",
-          "text": "1.0.0",
+          "text": "1.1.0",
           "class": "DepictionTableTextView"
         },
         {
@@ -92,6 +92,25 @@
       "tabname": "Changelog",
       "class": "DepictionStackView",
       "views": [
+        {
+          "title": "1.1.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Add original Lotus icons for a full rootless Lotus set",
+          "useSpacing": true
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released May 14th 2023</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
         {
           "title": "1.0.0",
           "useBoldText": true,

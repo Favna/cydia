@@ -1,19 +1,7 @@
 #!/usr/bin/env bash
 
-# Locally overwrite pushd to not output to stout
-pushd() {
-    command pushd "$@" >/dev/null
-}
-
-# Locally overwrite popd to not output to stout
-popd() {
-    command popd "$@" >/dev/null
-}
-
 run() {
-    # Set constants
-    REPO_DIR="$(pwd)"
-    SOURCE_DIR=$REPO_DIR/source
+    # Store new version in variable
     NEW_VERSION=$1
 
     # Create directory for rootless
@@ -24,27 +12,24 @@ run() {
     cp -r themes/* source/tech.favware.darkcons-rootless/var/jb/
 
     # Move into the source directory
-    pushd $SOURCE_DIR
+    cd source
 
     # Build the debs
     dpkg -b tech.favware.darkcons
     dpkg -b tech.favware.darkcons-rootless
 
     # Move the debs to the repo/debs folder
-    mv tech.favware.darkcons.deb ../debs/tech.favware.darkcons_$NEW_VERSION.deb
-    mv tech.favware.darkcons-rootless.deb ../debs/tech.favware.darkcons-rootless_$NEW_VERSION.deb
+    mv tech.favware.darkcons.deb ../debs/tech.favware.darkcons_${NEW_VERSION}.deb
+    mv tech.favware.darkcons-rootless.deb ../debs/tech.favware.darkcons-rootless_${NEW_VERSION}.deb
 
-    popd
-    pushd $REPO_DIR
+    # Move back to root
+    cd ../
 
     # Create Packages index file
-    dpkg-scanpackages -m ./debs >Packages
+    dpkg-scanpackages -m ./debs > Packages
 
     # bzip the package index
     bzip2 -kfq Packages
-
-    # Move out of the source directory
-    popd
 }
 
 # Exit on errors

@@ -16,11 +16,15 @@ run() {
     SOURCE_DIR=$REPO_DIR/source
     NEW_VERSION=$1
 
+    # Create directory for rootless
+    mkdir -p source/tech.favware.darkcons-rootless/var/jb/
+
+    # Copy theme files
+    cp -r themes/* source/tech.favware.darkcons/
+    cp -r themes/* source/tech.favware.darkcons-rootless/var/jb/
+
     # Move into the source directory
     pushd $SOURCE_DIR
-
-    cp ../icons/* ./tech.favware.darkcons/Library/Themes/Darkcons/IconBundles
-    cp ../icons/* ./tech.favware.darkcons-rootless/var/jb/Library/Themes/Darkcons/IconBundles
 
     # Build the debs
     dpkg -b tech.favware.darkcons

@@ -1,4 +1,5 @@
 .DS_Store
 
 # Copied icons in source
-source/**/*.png
+source/*/Library/
+source/*/var/
